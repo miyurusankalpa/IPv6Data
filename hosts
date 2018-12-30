@@ -3,7 +3,8 @@
 
 2a04:4e42::246 beta.spotify.map.fastly.net scdn.co daily-mix.scdn.co mosaic.scdn.co charts-images.scdn.co pl.scdn.co 
 
-2a04:4e42::217 vimeo.com www.speedtest.net
+2a04:4e42::217 vimeo.com 
+2a04:4e42::391 www.speedtest.net
 #2607:f8b0:4009:809::200e www.google.com
 #2a03:2880:f12d:83:face:b00c:0:25de www.facebook.com
 
@@ -18,7 +19,11 @@
 2606:4700:30::681c:daf psarips.in
 #2606:4700:40::681c:daf news.ycombinator.com
 
-#2606:2800:248:1707:10d3:19d0:1ba2:1a23 pbs.twimg.com
+2606:2800:248:1707:10d3:19d0:1ba2:1a23 pbs.twimg.com
+
+2a04:4e42:2e::81 www.bbc.com
+2a02:26f0:6b:2a0::1bb7 www.last.fm lastfm-img2.akamaized.net 
+2a02:26f0:6b:2a0::b downloadmirror.intel.com
 
 #2400:cb00:2048:1::6810:1923 registry.npmjs.org
 
@@ -122,10 +127,6 @@
 2a04:4e42:2e::258 qph.fs.quoracdn.net
 2a04:4e42:2e::258 qsbr.fs.quoracdn.net
 2a04:4e42:2e::258 qsf.fs.quoracdn.net
-
-2a04:4e42:2e::81 www.bbc.com
-2404:f000:6:185::1 www.last.fm lastfm-img2.akamaized.net downloadmirror.intel.com
-#2600:1417:5e::1731:3c58
 
 ## Medium
 2400:cb00:2048:1::6810:787f medium.com
