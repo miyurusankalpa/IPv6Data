@@ -1,5 +1,8 @@
 2600:1fa0:8040:9641:34d8:840d:: ipv6.s3.amazonaws.com s3.amazonaws.com static-course-assets.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com tunnelbear.s3.amazonaws.com
 2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk static.lankadeepa.lk
+2600:9000:2048:5000:1d:d440:2400:aaa www.amazon.com images-na.ssl-images-amazon.com www.imdb.com
+2a02:26f0:6b:2a0::595 www.aliexpress.com
+2a02:26f0:6b:2a0::412 www.hulu.com
 
 2a04:4e42::246 beta.spotify.map.fastly.net scdn.co daily-mix.scdn.co mosaic.scdn.co charts-images.scdn.co pl.scdn.co 
 
