@@ -1,4 +1,4 @@
-###Updated Date: 2019/01/01
+###Updated Date: 2019/01/02
 
 ## Amazon S3 Misc 
 2600:1fa0:8040:9641:34d8:840d::3 s3.amazonaws.com
@@ -22,17 +22,12 @@
 2a02:26f0:6b:2a0::412 www.hulu.com
 
 ## Faslty Misc 
-2a04:4e42::621 skyfire.vimeocdn.com 
-2a04:4e42::621 fresnel.vimeocdn.com
 #2a04:4e42::325 stackoverflow.com 
 #2a04:4e42::325 stackexchange.com
 #2a04:4e42::325 superuser.com
 #2a04:4e42::325 serverfault.com
 2a04:4e42:14::193 imgur.com
 2a04:4e42:14::193 i.imgur.com
-2a04:4e42::420 www.nytimes.com
-2a04:4e42::420 vp.nyt.com
-2a04:4e42::217 vimeo.com 
 2a04:4e42::391 www.speedtest.net
 2a04:4e42::246 scdn.co
 2a04:4e42::246 daily-mix.scdn.co
@@ -45,6 +40,8 @@
 2a04:4e42::133 microsoft.github.io 
 2a04:4e42::133 yelp.github.io 
 2a04:4e42::133 artsy.github.io 
+2a04:4e42::726 twitch.tv
+2a04:4e42::726 www.twitch.tv
 
 ## Cloudflare Misc 
 2404:6800:4008:c07::79 ipinfo.io
@@ -59,8 +56,20 @@
 #2400:cb00:2048:1::6810:1923 registry.npmjs.org
 
 ## Misc 
+2620:1ec:c11::200 bing.com
 2620:1ec:c11::200 www.bing.com
 2a02:fe80:1010::12 pahe.in
+
+## Vimeo 
+2a04:4e42::217 vimeo.com
+2a04:4e42::217 player.vimeo.com
+2a04:4e42::621 skyfire.vimeocdn.com 
+2a04:4e42::621 fresnel.vimeocdn.com
+2a04:4e42::621 i.vimeocdn.com
+2a04:4e42::621 f.vimeocdn.com
+2a04:4e42::621 fpdl.vimeocdn.com
+2a04:4e42::621 extend.vimeocdn.com
+2a04:4e42::621 secure-a.vimeocdn.com
 
 ## Vox Media
 2a04:4e42::308 voxmedia.com
@@ -79,6 +88,20 @@
 2a04:4e42::308 www.theverge.com
 2a04:4e42::308 vox-cdn.com 
 2a04:4e42::308 vox.com
+2a04:4e42::308 auth.voxmedia.com
+2a04:4e42::308 cdn.vox-cdn.com
+2a04:4e42::308 cdn2.vox-cdn.com
+2a04:4e42::308 phonograph2.voxmedia.com
+
+## NY Times
+2a04:4e42::420 www.nytimes.com
+2a04:4e42::420 vp.nyt.com
+2a04:4e42::420 static01.nyt.com
+2a04:4e42::420 a1.nyt.com
+2a04:4e42::420 cigsvc.nytimes.com
+2a04:4e42::420 g1.nyt.com
+2a04:4e42::420 samizdat-graphql.nytimes.com
+2a04:4e42::420 typeface.nyt.com
 
 ## National Geographic
 2a02:26f0:6b:2a0::bd6 nationalgeographic.com
@@ -130,6 +153,7 @@
 2a04:4e42:14::396 mod.reddit.com
 2a04:4e42:14::396 d.reddit.com
 2a04:4e42:14::396 e.reddit.com
+2a04:4e42:14::396 s.reddit.com
 2a04:4e42:14::396 events.reddit.com
 2a04:4e42:14::396 buttons.reddit.com
 2a04:4e42:14::396 oauth.reddit.com
