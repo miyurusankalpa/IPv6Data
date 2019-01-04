@@ -1,4 +1,4 @@
-###Updated Date: 2019/01/02
+###Updated Date: 2019/01/04
 
 ## Amazon S3 Misc 
 2600:1fa0:8040:9641:34d8:840d::3 s3.amazonaws.com
@@ -20,6 +20,9 @@
 2a02:26f0:6b:2a0::b downloadmirror.intel.com
 2a02:26f0:6b:2a0::595 www.aliexpress.com
 2a02:26f0:6b:2a0::412 www.hulu.com
+2a02:26f0:6b:2a0::2e99 www.latimes.com
+2a02:26f0:6b:2a0::2565 players.brightcove.net
+2a02:26f0:6b:2a0::19fd use.typekit.net
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
@@ -42,6 +45,7 @@
 2a04:4e42::133 artsy.github.io 
 2a04:4e42::726 twitch.tv
 2a04:4e42::726 www.twitch.tv
+2a04:4e42::726 static.twitchcdn.net
 
 ## Cloudflare Misc 
 2404:6800:4008:c07::79 ipinfo.io
@@ -50,11 +54,11 @@
 2606:4700:31::681f:5b3 www.lowendtalk.com 
 2606:4700:31::681f:5b3 subscene.com
 2606:4700:31::681f:5b4 blog.cloudflare.com
+2606:4700:31::681f:584 www.troyhunt.com
 2606:4700:31::681f:5b5 i.stack.imgur.com
-2606:4700:30::681c:daf psarips.in
 #2606:4700:40::681c:daf news.ycombinator.com
 #2400:cb00:2048:1::6810:1923 registry.npmjs.org
-
+ 
 ## Misc 
 2620:1ec:c11::200 bing.com
 2620:1ec:c11::200 www.bing.com
