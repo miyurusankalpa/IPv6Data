@@ -1,4 +1,4 @@
-###Updated Date: 2019/01/04
+###Updated Date: 2019/01/06
 
 ## Amazon S3 Misc 
 2600:1fa0:8040:9641:34d8:840d::3 s3.amazonaws.com
@@ -9,29 +9,44 @@
 ## Amazon CloudFront Misc 
 2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:aaa www.amazon.com
-2600:9000:2048:5000:1d:d440:2400:aaa images-na.ssl-images-amazon.com
+2600:9000:2048:5000:1d:d440:2400:3a www.amazon.com
+2600:9000:2048:5000:1d:d440:2400:4a images-na.ssl-images-amazon.com
 2600:9000:2048:5000:1d:d440:2400:db www.imdb.com
+2600:9000:2048:5000:1d:d440:2400:db m.media-amazon.com
+2600:9000:2048:5000:1d:d440:2400:9a a.tiles.mapbox.com
+2600:9000:2048:5000:1d:d440:2400:9b b.tiles.mapbox.com
+2600:9000:2048:5000:1d:d440:2400:12aa api.mapbox.com
+2600:9000:2048:5000:1d:d440:2400:db video-http.media-imdb.com
+2600:9000:2048:5000:1d:d440:2400:db s.media-imdb.com
+2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
 
 ## Akamai Misc 
-2a04:4e42:2e::81 www.bbc.com
 2a02:26f0:6b:2a0::1bb7 www.last.fm
 2a02:26f0:6b:2a0::1bb7 lastfm-img2.akamaized.net 
-2a02:26f0:6b:2a0::b downloadmirror.intel.com
+2600:1417:3f:288::b downloadmirror.intel.com
 2a02:26f0:6b:2a0::595 www.aliexpress.com
 2a02:26f0:6b:2a0::412 www.hulu.com
 2a02:26f0:6b:2a0::2e99 www.latimes.com
 2a02:26f0:6b:2a0::2565 players.brightcove.net
 2a02:26f0:6b:2a0::19fd use.typekit.net
+2600:1417:3f:288::3823 pbs.twimg.com 
+2600:1417:3f:288::3824 video.twimg.com 
+2a02:26f0:6b:2a0::134f totaleclips-a.akamaihd.net
+2600:1417:3f:288::1c7b drivers.amd.com
+2a02:26f0:6b:2a0::1c7b download.amd.com
+2a02:26f0:6b:2a0::3ff www.amd.com
+2a02:26f0:6b:2a0::3ff support.amd.com
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
 #2a04:4e42::325 stackexchange.com
 #2a04:4e42::325 superuser.com
 #2a04:4e42::325 serverfault.com
+2a04:4e42:2e::81 www.bbc.com
 2a04:4e42:14::193 imgur.com
 2a04:4e42:14::193 i.imgur.com
 2a04:4e42::391 www.speedtest.net
+2a04:4e42::246 i.scdn.co
 2a04:4e42::246 scdn.co
 2a04:4e42::246 daily-mix.scdn.co
 2a04:4e42::246 mosaic.scdn.co
@@ -63,7 +78,7 @@
 2620:1ec:c11::200 bing.com
 2620:1ec:c11::200 www.bing.com
 2a02:fe80:1010::12 pahe.in
-
+2a02:fe80:1010::10 www.wpbeginner.com
 ## Vimeo 
 2a04:4e42::217 vimeo.com
 2a04:4e42::217 player.vimeo.com
