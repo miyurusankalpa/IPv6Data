@@ -1,4 +1,4 @@
-###Updated Date: 2019/01/06
+###Updated Date: 2019/01/09
 
 ## Amazon S3 Misc 
 2600:1fa0:8040:9641:34d8:840d::3 s3.amazonaws.com
@@ -45,6 +45,7 @@
 2a04:4e42:2e::81 www.bbc.com
 2a04:4e42:14::193 imgur.com
 2a04:4e42:14::193 i.imgur.com
+2a04:4e42:14::193 api.imgur.com
 2a04:4e42::391 www.speedtest.net
 2a04:4e42::246 i.scdn.co
 2a04:4e42::246 scdn.co
@@ -56,7 +57,8 @@
 2a04:4e42::133 ibm.github.io 
 2a04:4e42::133 twitter.github.io
 2a04:4e42::133 microsoft.github.io 
-2a04:4e42::133 yelp.github.io 
+2a04:4e42::133 yelp.github.io
+2a04:4e42::133 haubek.github.io
 2a04:4e42::133 artsy.github.io 
 2a04:4e42::726 twitch.tv
 2a04:4e42::726 www.twitch.tv
@@ -79,6 +81,7 @@
 2620:1ec:c11::200 www.bing.com
 2a02:fe80:1010::12 pahe.in
 2a02:fe80:1010::10 www.wpbeginner.com
+
 ## Vimeo 
 2a04:4e42::217 vimeo.com
 2a04:4e42::217 player.vimeo.com
@@ -92,6 +95,7 @@
 
 ## Vox Media
 2a04:4e42::308 voxmedia.com
+2a04:4e42::308 www.voxmedia.com
 2a04:4e42::308 americanninjawarriornation.com
 2a04:4e42::308 funnyordie.com
 2a04:4e42::308 recode.net
@@ -108,7 +112,7 @@
 2a04:4e42::308 vox-cdn.com 
 2a04:4e42::308 vox.com
 2a04:4e42::308 auth.voxmedia.com
-2a04:4e42::308 cdn.vox-cdn.com
+#2a04:4e42::308 cdn.vox-cdn.com
 2a04:4e42::308 cdn2.vox-cdn.com
 2a04:4e42::308 phonograph2.voxmedia.com
 
