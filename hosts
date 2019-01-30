@@ -1,15 +1,16 @@
-###Updated Date: 2019/01/09
+###Updated Date: 2019/01/29
 
 ## Amazon S3 Misc 
-2600:1fa0:8040:9641:34d8:840d::3 s3.amazonaws.com
-2600:1fa0:8040:9641:34d8:840d::3 static-course-assets.s3.amazonaws.com
-2600:1fa0:8040:9641:34d8:840d::3 github-production-release-asset-2e65be.s3.amazonaws.com
-2600:1fa0:8040:9641:34d8:840d::3 tunnelbear.s3.amazonaws.com
+2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
+2600:1fa0:8028:90c8:34d8:5625:: static-course-assets.s3.amazonaws.com
+2600:1fa0:8028:90c8:34d8:5625:: github-production-release-asset-2e65be.s3.amazonaws.com
+2600:1fa0:8028:90c8:34d8:5625:: tunnelbear.s3.amazonaws.com
 
 ## Amazon CloudFront Misc 
 2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:3a www.amazon.com
+2600:9000:2048:5000:1d:d440:2400:3a aws.amazon.com
 2600:9000:2048:5000:1d:d440:2400:4a images-na.ssl-images-amazon.com
 2600:9000:2048:5000:1d:d440:2400:db www.imdb.com
 2600:9000:2048:5000:1d:d440:2400:db m.media-amazon.com
@@ -21,21 +22,21 @@
 2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
 
 ## Akamai Misc 
-2a02:26f0:6b:2a0::1bb7 www.last.fm
-2a02:26f0:6b:2a0::1bb7 lastfm-img2.akamaized.net 
-2a02:26f0:6b:2a0::b downloadmirror.intel.com
-2a02:26f0:6b:2a0::595 www.aliexpress.com
-2a02:26f0:6b:2a0::412 www.hulu.com
-2a02:26f0:6b:2a0::2e99 www.latimes.com
-2a02:26f0:6b:2a0::2565 players.brightcove.net
-2a02:26f0:6b:2a0::19fd use.typekit.net
-2a02:26f0:6b:2a0::3823 pbs.twimg.com 
-2a02:26f0:6b:2a0::3824 video.twimg.com 
-2a02:26f0:6b:2a0::134f totaleclips-a.akamaihd.net
-2a02:26f0:6b:2a0::1c7b drivers.amd.com
-2a02:26f0:6b:2a0::1c7b download.amd.com
-2a02:26f0:6b:2a0::3ff www.amd.com
-2a02:26f0:6b:2a0::3ff support.amd.com
+2a02:26f0:6b:588::1bb7 www.last.fm
+2a02:26f0:6b:588::1bb7 lastfm-img2.akamaized.net 
+2a02:26f0:6b:588::b downloadmirror.intel.com
+2a02:26f0:6b:588::595 www.aliexpress.com
+2a02:26f0:6b:588::412 www.hulu.com
+2a02:26f0:6b:588::2e99 www.latimes.com
+2a02:26f0:6b:588::2565 players.brightcove.net
+2a02:26f0:6b:588::19fd use.typekit.net
+2a02:26f0:6b:588::3823 pbs.twimg.com 
+2a02:26f0:6b:588::3824 video.twimg.com 
+2a02:26f0:6b:588::134f totaleclips-a.akamaihd.net
+2a02:26f0:6b:588::1c7b drivers.amd.com
+2a02:26f0:6b:588::1c7b download.amd.com
+2a02:26f0:6b:588::3ff www.amd.com
+2a02:26f0:6b:588::3ff support.amd.com
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
@@ -127,14 +128,14 @@
 2a04:4e42::420 typeface.nyt.com
 
 ## National Geographic
-2a02:26f0:6b:2a0::bd6 nationalgeographic.com
-2a02:26f0:6b:2a0::bd6 www.nationalgeographic.com
-2a02:26f0:6b:2a0::bd6 images.natgeo.com
-2a02:26f0:6b:2a0::bd6 fonts.ngeo.com
-2a02:26f0:6b:2a0::bd6 assets.nationalgeographic.com
-2a02:26f0:6b:2a0::bd6 videoplayer.nationalgeographic.com
-2a02:26f0:6b:2a0::bd6 yourshot.nationalgeographic.com
-2a02:26f0:6b:2a0::bd6 icons.nationalgeographic.com
+2a02:26f0:6b:588::bd6 nationalgeographic.com
+2a02:26f0:6b:588::bd6 www.nationalgeographic.com
+2a02:26f0:6b:588::bd6 images.natgeo.com
+2a02:26f0:6b:588::bd6 fonts.ngeo.com
+2a02:26f0:6b:588::bd6 assets.nationalgeographic.com
+2a02:26f0:6b:588::bd6 videoplayer.nationalgeographic.com
+2a02:26f0:6b:588::bd6 yourshot.nationalgeographic.com
+2a02:26f0:6b:588::bd6 icons.nationalgeographic.com
 
 ## Squarespace
 2a04:4e42::400:238 www.squarespace.com 
