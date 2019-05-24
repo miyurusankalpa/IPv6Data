@@ -1,4 +1,4 @@
-###Updated Date: 2019/05/24
+###Updated Date: 2019/05/25
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -37,13 +37,17 @@
 2a02:26f0:6b:588::1c7b download.amd.com
 2a02:26f0:6b:588::3ff www.amd.com
 2a02:26f0:6b:588::3ff support.amd.com
-2a02:26f0:6b:2a0::134f spoprod-a.akamaihd.net
+2a02:26f0:6b:2a0::88bb spoprod-a.akamaihd.net
+2a02:26f0:6b:2a0::b69 developer.microsoft.com
+2a02:26f0:6b:2a0::b69 dev.microsoft.com
+2a02:26f0:6b:2a0::b69 developers.microsoft.com
 
 ## Faslty Misc 
-#2a04:4e42::325 stackoverflow.com 
-#2a04:4e42::325 stackexchange.com
-#2a04:4e42::325 superuser.com
-#2a04:4e42::325 serverfault.com
+2a04:4e42::325 stackoverflow.com 
+2a04:4e42::325 stackexchange.com
+2a04:4e42::325 superuser.com
+2a04:4e42::325 serverfault.com
+## stack sites can view, but cannot vote
 2a04:4e42:2e::81 www.bbc.com
 2a04:4e42::193 imgur.com
 2a04:4e42::193 i.imgur.com
@@ -65,6 +69,7 @@
 2a04:4e42::726 twitch.tv
 2a04:4e42::726 www.twitch.tv
 2a04:4e42::726 static.twitchcdn.net
+2a04:4e42::645 www.starlink.com
 
 ## Cloudflare Misc 
 2404:6800:4008:c07::79 ipinfo.io
@@ -82,6 +87,7 @@
 2620:1ec:c11::200 www.bing.com
 2a02:fe80:1010::12 pahe.in
 2a02:fe80:1010::10 www.wpbeginner.com
+2606:2800:147:ff8:129b:22eb:20b:1347 ajax.aspnetcdn.com
 
 ## Vimeo 
 2a04:4e42::217 vimeo.com
