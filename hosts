@@ -1,4 +1,4 @@
-###Updated Date: 2019/01/29
+###Updated Date: 2019/05/24
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -37,6 +37,7 @@
 2a02:26f0:6b:588::1c7b download.amd.com
 2a02:26f0:6b:588::3ff www.amd.com
 2a02:26f0:6b:588::3ff support.amd.com
+2a02:26f0:6b:2a0::134f spoprod-a.akamaihd.net
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
@@ -78,7 +79,6 @@
 #2400:cb00:2048:1::6810:1923 registry.npmjs.org
  
 ## Misc 
-2620:1ec:c11::200 bing.com
 2620:1ec:c11::200 www.bing.com
 2a02:fe80:1010::12 pahe.in
 2a02:fe80:1010::10 www.wpbeginner.com
@@ -243,3 +243,10 @@
 2a04:4e42:2e::258 qph.fs.quoracdn.net
 2a04:4e42:2e::258 qsbr.fs.quoracdn.net
 2a04:4e42:2e::258 qsf.fs.quoracdn.net
+
+## Onedrive
+2620:1ec:21::13 onedrive.live.com
+2620:1ec:21::12 api.onedrive.com
+2620:1ec:21::12 bn1302files.storage.live.com
+2620:1ec:21::12 public.bn.files.1drv.com
+2620:1ec:8f8::8 studentglendale-my.sharepoint.com
