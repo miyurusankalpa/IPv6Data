@@ -1,4 +1,4 @@
-###Updated Date: 2019/05/25
+###Updated Date: 2019/05/31
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -20,6 +20,8 @@
 2600:9000:2048:5000:1d:d440:2400:db video-http.media-imdb.com
 2600:9000:2048:5000:1d:d440:2400:db s.media-imdb.com
 2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
+2600:9000:2048:5000:1d:d440:2400:db imdb-video.media-imdb.com
+2600:9000:2048:5000:1d:d440:2400:5lac slack.com
 
 ## Akamai Misc 
 2a02:26f0:6b:588::1bb7 www.last.fm
@@ -43,11 +45,10 @@
 2a02:26f0:6b:2a0::b69 developers.microsoft.com
 
 ## Faslty Misc 
-2a04:4e42::325 stackoverflow.com 
-2a04:4e42::325 stackexchange.com
-2a04:4e42::325 superuser.com
-2a04:4e42::325 serverfault.com
-## stack sites can view, but cannot vote
+#2a04:4e42::325 stackoverflow.com 
+#2a04:4e42::325 stackexchange.com
+#2a04:4e42::325 superuser.com
+#2a04:4e42::325 serverfault.com
 2a04:4e42:2e::81 www.bbc.com
 2a04:4e42::193 imgur.com
 2a04:4e42::193 i.imgur.com
@@ -70,6 +71,8 @@
 2a04:4e42::726 www.twitch.tv
 2a04:4e42::726 static.twitchcdn.net
 2a04:4e42::645 www.starlink.com
+2a04:4e42::102 downloads.slack-edge.com
+2a04:4e42::102 a.slack-edge.com
 
 ## Cloudflare Misc 
 2404:6800:4008:c07::79 ipinfo.io
@@ -80,14 +83,14 @@
 2606:4700:31::681f:5b4 blog.cloudflare.com
 2606:4700:31::681f:584 www.troyhunt.com
 2606:4700:31::681f:5b5 i.stack.imgur.com
-#2606:4700:40::681c:daf news.ycombinator.com
-#2400:cb00:2048:1::6810:1923 registry.npmjs.org
- 
+2606:4700:31::681f:5b5 www.backblaze.com
+
 ## Misc 
 2620:1ec:c11::200 www.bing.com
-2a02:fe80:1010::12 pahe.in
+#2a02:fe80:1010::12 pahe.in
 2a02:fe80:1010::10 www.wpbeginner.com
 2606:2800:147:ff8:129b:22eb:20b:1347 ajax.aspnetcdn.com
+2001:41d0:1:8720::1 archive.is
 
 ## Vimeo 
 2a04:4e42::217 vimeo.com
