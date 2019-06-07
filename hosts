@@ -1,4 +1,5 @@
-###Updated Date: 2019/06/06
+###Updated Date: 2019/06/08
+# Thanks for https://github.com/tambry for some IPs and hosts
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -22,6 +23,12 @@
 2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:5lac slack.com
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 global.localizecdn.com
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 d31qbv1cthcecs.cloudfront.net
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 certify.alexametrics.com
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 api.smugmug.com
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 cdn.smugmug.com
+2600:9000:20fe:6a00:c:d3e7:bf80:93a1 photos.smugmug.com
 
 ## Akamai Misc 
 2a02:26f0:6b:588::1bb7 www.last.fm
@@ -43,6 +50,24 @@
 2a02:26f0:6b:2a0::b69 developer.microsoft.com
 2a02:26f0:6b:2a0::b69 dev.microsoft.com
 2a02:26f0:6b:2a0::b69 developers.microsoft.com
+2a02:26f0:d8:4bf::47f www.anandtech.com
+2a02:26f0:d8:4bf::47f images.anandtech.com
+2a02:26f0:d8:4bf::47f natoms-serve.purch.com
+2a02:26f0:d8:4bf::47f natoms-static.purch.com
+2a02:26f0:d8:4bf::47f img.purch.com
+2a02:26f0:d8:4bf::47f privacy.purch.com
+2a02:26f0:3b:292::e1f s7.addthis.com
+2a02:26f0:41:29a::e1f f.addthis.com
+2a02:26f0:3b:292::e1f m.addthis.com
+2a02:26f0:3b:292::e1f m.addthisedge.com
+2a02:26f0:3b:292::e1f api-public.addthis.com
+2a02:26f0:3b::1741:1d43 edge.sharethis.com
+2a02:26f0:3b:293::32b t.sharethis.com
+2a02:26f0:3b::210:3f23 w.sharethis.com
+2a02:26f0:3b:297::102c ws.sharethis.com
+2a02:26f0:3b:297::102c wd-edge.sharethis.com
+2a02:26f0:3b:297::102c buttons-config.sharethis.com
+2a02:26f0:3b:297::102c platform-api.sharethis.com
 
 ## Faslty Misc 
 2a04:4e42::325 stackoverflow.com 
@@ -90,8 +115,22 @@
 2a04:4e42::154 www.foursquare.com
 2a04:4e42::156 swarmapp.com
 2a04:4e42::156 www.swarmapp.com
-				
+2a04:4e42::731 b.cdnst.net
+2a04:4e42::727 dev.to
+2a04:4e42::432 www.timeanddate.com
+2a04:4e42::426 c.tadst.com
+2a04:4e42::645 www.theatlantic.com
+2a04:4e42::645 accounts.theatlantic.com
+2a04:4e42::645 cdn.theatlantic.com
+2a04:4e42::645 data-cdn.theatlantic.com
+2a04:4e42::193 p.imgur.com
+2a04:4e42::193 s.imgur.com
+2a04:4e42::207 urbandictionary.com
+2a04:4e42::425 www.urbandictionary.com
+2a04:4e42::425 api.urbandictionary.com
+
 ## Cloudflare Misc 
+2404:6800:4008:c07::79 ipinfo.io
 2404:6800:4008:c07::79 ipinfo.io
 2606:4700:31::681f:5b4 db-ip.com
 2606:4700:31::681f:5b4 api.db-ip.com
@@ -129,6 +168,12 @@
 2606:4700:31::681f:5b5 joel.is
 2606:4700:31::681f:5b5 blog.realmacsoftware.com
 
+## Stackpath Misc 
+2001:4de0:ac19::1:b:1a stackpath.bootstrapcdn.com
+2001:4de0:ac19::1:b:1a code.jquery.com
+2001:4de0:ac19::1:b:1a assets-cdn.daybreakgames.com
+2001:4de0:ac19::1:b:1a cdn.runescape.com
+
 ## Vimeo 
 2a04:4e42::217 vimeo.com
 2a04:4e42::217 player.vimeo.com
@@ -164,6 +209,16 @@
 2a04:4e42::308 cdn2.vox-cdn.com
 2a04:4e42::308 phonograph2.voxmedia.com
 
+## Pinterest
+2a04:4e42::84 pinterest.com
+2a04:4e42::84 pinterest.de
+2a04:4e42::84 ct.pinterest.com
+2a04:4e42::84 www.pinterest.com
+2a04:4e42::84 www.pinterest.de
+2a04:4e42::84 api.pinterest.com
+2a04:4e42::84 log.pinterest.com
+2a04:4e42::84 widgets.pinterest.com
+
 ## NY Times
 2a04:4e42::420 www.nytimes.com
 2a04:4e42::420 vp.nyt.com
@@ -173,6 +228,16 @@
 2a04:4e42::420 g1.nyt.com
 2a04:4e42::420 samizdat-graphql.nytimes.com
 2a04:4e42::420 typeface.nyt.com
+
+## TheGuardian
+2a04:4e42::367 www.theguardian.com
+2a04:4e42::367 api.nextgen.guardianapps.co.uk
+2a04:4e42::367 assets.guim.co.uk
+2a04:4e42::367 avatar.guim.co.uk
+2a04:4e42::367 uploads.guim.co.uk
+2a04:4e42::367 i.guim.co.uk
+2a04:4e42::367 discussion.theguardian.com
+2a04:4e42::367 interactive.guim.co.uk
 
 ## National Geographic
 2a02:26f0:6b:588::bd6 nationalgeographic.com
@@ -291,7 +356,20 @@
 2a04:4e42:2e::258 qsbr.fs.quoracdn.net
 2a04:4e42:2e::258 qsf.fs.quoracdn.net
 
-## Onedrive
+# Microsoft
+2a02:26f0:f:282::24c4 account.microsoft.com
+2a02:26f0:d8:393::2255 blogs.msdn.microsoft.com
+2a02:26f0:d8:499::4228 devblogs.microsoft.com
+2a02:26f0:d8:48c::2710 social.microsoft.com
+2a02:26f0:d8:48c::2710 social.msdn.microsoft.com
+2a02:26f0:d8:48c::2710 widgets.services.microsoft.com
+2a02:26f0:d8:4a8::26da i1.social.s-msft.com
+2a02:26f0:d8:4a8::26da i1.services.social.microsoft.com
+2a02:26f0:d8:4a8::26da i4.services.social.microsoft.com
+2a02:26f0:d8:4b6::2963 i-msdn.sec.s-msft.com
+2a02:26f0:d8:4b6::2963 i2-msdn.sec.s-msft.com
+2a02:26f0:d8:48d::ad7 sec.ch9.ms
+2a02:26f0:f::6011:c49b mwf-service.akamaized.net
 2620:1ec:21::13 onedrive.live.com
 2620:1ec:21::12 api.onedrive.com
 2620:1ec:21::12 bn1302files.storage.live.com
@@ -299,6 +377,26 @@
 2620:1ec:8f8::8 studentglendale-my.sharepoint.com
 2620:1ec:8f8::8 mysmccd-my.sharepoint.com
 #2620:1ec:8f8::13 eastus21-mediap.svc.ms
+
+## Scribd
+2a04:4e42::664 scribd.com
+2a04:4e42::664 www.scribd.com
+2a04:4e42::664 de.scribd.com
+2a04:4e42::664 rs1.scribd.com
+2a04:4e42::664 rs2.scribd.com
+2a04:4e42::664 rs3.scribd.com
+2a04:4e42::664 rs4.scribd.com
+2a04:4e42::664 rs5.scribd.com
+2a04:4e42::664 rs6.scribd.com
+2a04:4e42::664 rs7.scribd.com
+2a04:4e42::664 rs8.scribd.com
+2a04:4e42::425 html1-f.scribdassets.com
+2a04:4e42::425 html2-f.scribdassets.com
+2a04:4e42::425 imgv2-1-f.scribdassets.com
+2a04:4e42::425 imgv2-2-f.scribdassets.com
+2a04:4e42::425 s-f.scribdassets.com
+2a04:4e42::425 s1-f.scribdassets.com
+2a04:4e42::425 s2-f.scribdassets.com
 
 ## Misc 
 2620:1ec:c11::200 www.bing.com
