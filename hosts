@@ -1,4 +1,4 @@
-###Updated Date: 2019/05/31
+###Updated Date: 2019/06/06
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -7,8 +7,6 @@
 2600:1fa0:8028:90c8:34d8:5625:: tunnelbear.s3.amazonaws.com
 
 ## Amazon CloudFront Misc 
-2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:3a www.amazon.com
 2600:9000:2048:5000:1d:d440:2400:3a aws.amazon.com
 2600:9000:2048:5000:1d:d440:2400:4a images-na.ssl-images-amazon.com
@@ -21,6 +19,8 @@
 2600:9000:2048:5000:1d:d440:2400:db s.media-imdb.com
 2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
 2600:9000:2048:5000:1d:d440:2400:db imdb-video.media-imdb.com
+2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
+2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
 2600:9000:2048:5000:1d:d440:2400:5lac slack.com
 
 ## Akamai Misc 
@@ -45,7 +45,7 @@
 2a02:26f0:6b:2a0::b69 developers.microsoft.com
 
 ## Faslty Misc 
-#2a04:4e42::325 stackoverflow.com 
+2a04:4e42::325 stackoverflow.com 
 #2a04:4e42::325 stackexchange.com
 #2a04:4e42::325 superuser.com
 #2a04:4e42::325 serverfault.com
@@ -70,10 +70,27 @@
 2a04:4e42::726 twitch.tv
 2a04:4e42::726 www.twitch.tv
 2a04:4e42::726 static.twitchcdn.net
+2a04:4e42::726 vod-secure.twitch.tv
+2a04:4e42::726 vod-storyboards.twitch.tv
 2a04:4e42::645 www.starlink.com
 2a04:4e42::102 downloads.slack-edge.com
 2a04:4e42::102 a.slack-edge.com
-
+2a04:4e42::129 cartodb-basemaps-a.global.ssl.fastly.net
+2a04:4e42::129 cartodb-basemaps-b.global.ssl.fastly.net
+2a04:4e42::129 cartodb-basemaps-c.global.ssl.fastly.net
+2a04:4e42::561 www.howtogeek.com
+2a04:4e42::134 disqus.com
+2a04:4e42::134 howtogeek.disqus.com
+2a04:4e42::464 myswitzerland.com
+2a04:4e42::282 www.thinkgeek.com
+2a04:4e42::624 www.buzzfeed.com
+2a04:4e42::624 buzzfeed.com
+2a04:4e42::624 img.buzzfeed.com
+2a04:4e42::154 foursquare.com
+2a04:4e42::154 www.foursquare.com
+2a04:4e42::156 swarmapp.com
+2a04:4e42::156 www.swarmapp.com
+				
 ## Cloudflare Misc 
 2404:6800:4008:c07::79 ipinfo.io
 2606:4700:31::681f:5b4 db-ip.com
@@ -84,13 +101,33 @@
 2606:4700:31::681f:584 www.troyhunt.com
 2606:4700:31::681f:5b5 i.stack.imgur.com
 2606:4700:31::681f:5b5 www.backblaze.com
-
-## Misc 
-2620:1ec:c11::200 www.bing.com
-#2a02:fe80:1010::12 pahe.in
-2a02:fe80:1010::10 www.wpbeginner.com
-2606:2800:147:ff8:129b:22eb:20b:1347 ajax.aspnetcdn.com
-2001:41d0:1:8720::1 archive.is
+2606:4700:31::681f:5b5 blog.gotinder.com
+2606:4700:31::681f:5b4 jquery.com
+2606:4700:31::681f:5b4 jqueryui.com
+2606:4700:31::681f:5b4 jquerymobile.com
+2606:4700:31::681f:5b4 sizzlejs.com
+2606:4700:31::681f:5b4 qunitjs.com
+2606:4700:31::681f:5b5 blog.digitalocean.com
+2606:4700:31::681f:5b5 spreadprivacy.com
+2606:4700:31::681f:5b5 blog.mozvr.com
+2606:4700:31::681f:5b5 blog.airtable.com
+2606:4700:31::681f:5b5 blog.revolut.com
+2606:4700:31::681f:5b5 stanfordreview.org
+2606:4700:31::681f:5b5 news.codecademy.com
+2606:4700:31::681f:5b5 blog.codinghorror.com
+2606:4700:31::681f:5b5 tech.okcupid.com
+2606:4700:31::681f:5b5 magazine.onbrand.me
+2606:4700:31::681f:5b5 blog.codecombat.com
+2606:4700:31::681f:5b5 blog.circle.com
+2606:4700:31::681f:5b5 blog.playground.global
+2606:4700:31::681f:5b5 blog.emojipedia.org
+2606:4700:31::681f:5b5 www.shared.com 
+2606:4700:31::681f:5b5 blog.bitpay.com 
+2606:4700:31::681f:5b5 blog.napster.com 
+2606:4700:31::681f:5b5 engineering.gusto.com 
+2606:4700:31::681f:5b5 tech.transferwise.com
+2606:4700:31::681f:5b5 joel.is
+2606:4700:31::681f:5b5 blog.realmacsoftware.com
 
 ## Vimeo 
 2a04:4e42::217 vimeo.com
@@ -102,6 +139,7 @@
 2a04:4e42::621 fpdl.vimeocdn.com
 2a04:4e42::621 extend.vimeocdn.com
 2a04:4e42::621 secure-a.vimeocdn.com
+2a04:4e42::621 fresnel-events.vimeocdn.com
 
 ## Vox Media
 2a04:4e42::308 voxmedia.com
@@ -259,3 +297,11 @@
 2620:1ec:21::12 bn1302files.storage.live.com
 2620:1ec:21::12 public.bn.files.1drv.com
 2620:1ec:8f8::8 studentglendale-my.sharepoint.com
+2620:1ec:8f8::8 mysmccd-my.sharepoint.com
+#2620:1ec:8f8::13 eastus21-mediap.svc.ms
+
+## Misc 
+2620:1ec:c11::200 www.bing.com
+2a02:fe80:1010::10 www.wpbeginner.com
+2606:2800:147:ff8:129b:22eb:20b:1347 ajax.aspnetcdn.com
+2001:41d0:1:8720::1 archive.is
