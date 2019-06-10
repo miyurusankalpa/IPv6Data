@@ -1,4 +1,4 @@
-###Updated Date: 2019/06/08
+###Updated Date: 2019/06/10
 # Thanks for https://github.com/tambry for some IPs and hosts
 
 ## Amazon S3 Misc 
@@ -8,27 +8,30 @@
 2600:1fa0:8028:90c8:34d8:5625:: tunnelbear.s3.amazonaws.com
 
 ## Amazon CloudFront Misc 
-2600:9000:2048:5000:1d:d440:2400:3a www.amazon.com
-2600:9000:2048:5000:1d:d440:2400:3a aws.amazon.com
-2600:9000:2048:5000:1d:d440:2400:4a images-na.ssl-images-amazon.com
-2600:9000:2048:5000:1d:d440:2400:db www.imdb.com
-2600:9000:2048:5000:1d:d440:2400:db m.media-amazon.com
-2600:9000:2048:5000:1d:d440:2400:9a a.tiles.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:9b b.tiles.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:12aa api.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:db video-http.media-imdb.com
-2600:9000:2048:5000:1d:d440:2400:db s.media-imdb.com
-2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
-2600:9000:2048:5000:1d:d440:2400:db imdb-video.media-imdb.com
-2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:5lac slack.com
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 global.localizecdn.com
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 d31qbv1cthcecs.cloudfront.net
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 certify.alexametrics.com
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 api.smugmug.com
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 cdn.smugmug.com
-2600:9000:20fe:6a00:c:d3e7:bf80:93a1 photos.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 aws.amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 images-na.ssl-images-amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 m.media-amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 a.tiles.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 b.tiles.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 api.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 video-http.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 s.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 addons.cdn.mozilla.net
+2600:9000:2001:cc00:1d:d440:2400:93a1 imdb-video.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.lankadeepa.lk
+2600:9000:2001:cc00:1d:d440:2400:93a1 static.lankadeepa.lk
+2600:9000:2001:cc00:1d:d440:2400:93a1 slack.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 global.localizecdn.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 d31qbv1cthcecs.cloudfront.net
+2600:9000:2001:cc00:1d:d440:2400:93a1 certify.alexametrics.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 api.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 cdn.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 photos.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 rottentomatoes.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 editorial.rottentomatoes.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 static.rottentomatoes.com
 
 ## Akamai Misc 
 2a02:26f0:6b:588::1bb7 www.last.fm
@@ -68,18 +71,24 @@
 2a02:26f0:3b:297::102c wd-edge.sharethis.com
 2a02:26f0:3b:297::102c buttons-config.sharethis.com
 2a02:26f0:3b:297::102c platform-api.sharethis.com
+2a02:26f0:7b::5f65:163 audio4-ak.spotify.com.edgesuite.net
+2a02:26f0:7b::5f65:163 audio4-ak-spotify-com.akamaized.net
 
 ## Faslty Misc 
-2a04:4e42::325 stackoverflow.com 
+#2a04:4e42::325 stackoverflow.com 
 #2a04:4e42::325 stackexchange.com
 #2a04:4e42::325 superuser.com
 #2a04:4e42::325 serverfault.com
 2a04:4e42:2e::81 www.bbc.com
 2a04:4e42::193 imgur.com
 2a04:4e42::193 i.imgur.com
+2a04:4e42::193 s.imgur.com
 2a04:4e42::193 api.imgur.com
 2a04:4e42::391 www.speedtest.net
+2a04:4e42::728 download.spotify.com
+2a04:4e42::728 upgrade.spotify.com
 2a04:4e42::246 i.scdn.co
+2a04:4e42::246 audio-fa.scdn.co
 2a04:4e42::246 scdn.co
 2a04:4e42::246 daily-mix.scdn.co
 2a04:4e42::246 mosaic.scdn.co
@@ -92,11 +101,6 @@
 2a04:4e42::133 yelp.github.io
 2a04:4e42::133 haubek.github.io
 2a04:4e42::133 artsy.github.io 
-2a04:4e42::726 twitch.tv
-2a04:4e42::726 www.twitch.tv
-2a04:4e42::726 static.twitchcdn.net
-2a04:4e42::726 vod-secure.twitch.tv
-2a04:4e42::726 vod-storyboards.twitch.tv
 2a04:4e42::645 www.starlink.com
 2a04:4e42::102 downloads.slack-edge.com
 2a04:4e42::102 a.slack-edge.com
@@ -128,10 +132,22 @@
 2a04:4e42::207 urbandictionary.com
 2a04:4e42::425 www.urbandictionary.com
 2a04:4e42::425 api.urbandictionary.com
+2a04:4e42::561 www.forbes.com
+2a04:4e42::561 i.forbesimg.com
+2a04:4e42::561 specials-images.forbesimg.com
+2a04:4e42::561 thumbor.forbes.com
+2a04:4e42::645 comicbook.com
+2a04:4e42::645 asset.comicbook.com
+2a04:4e42::645 media.comicbook.com
+2a04:4e42::678 gizmodo.com
+2a04:4e42::678 avclub.com
+2a04:4e42::678 i.kinja-img.com
+2a04:4e42::246 heads-fa.spotify.com
+2a04:4e42::246 audio-fac.spotify.com
 
 ## Cloudflare Misc 
-2404:6800:4008:c07::79 ipinfo.io
-2404:6800:4008:c07::79 ipinfo.io
+2606:4700:31::681f:5b2 news.ycombinator.com
+2606:4700:31::681f:5b4 ipinfo.io
 2606:4700:31::681f:5b4 db-ip.com
 2606:4700:31::681f:5b4 api.db-ip.com
 2606:4700:31::681f:5b3 www.lowendtalk.com 
@@ -167,12 +183,15 @@
 2606:4700:31::681f:5b5 tech.transferwise.com
 2606:4700:31::681f:5b5 joel.is
 2606:4700:31::681f:5b5 blog.realmacsoftware.com
+2606:4700:31::681f:5b5 www.nginx.com
 
 ## Stackpath Misc 
 2001:4de0:ac19::1:b:1a stackpath.bootstrapcdn.com
 2001:4de0:ac19::1:b:1a code.jquery.com
 2001:4de0:ac19::1:b:1a assets-cdn.daybreakgames.com
 2001:4de0:ac19::1:b:1a cdn.runescape.com
+2001:4de0:ac19::1:b:1a  maxcdn.bootstrapcdn.com
+2001:4de0:ac19::1:b:1a  y3k7n9q4.stackpathcdn.com
 
 ## Vimeo 
 2a04:4e42::217 vimeo.com
@@ -264,7 +283,6 @@
 2600:9000:2048:5000:1d:d440:2400:55 cf.squarespace.com 
 
 ## Github
-#2a04:4e42::400:133 gist.github.com
 2a04:4e42::400:403 assets-cdn.github.com
 2a04:4e42::400:403 camo.githubusercontent.com
 2a04:4e42::400:403 cloud.githubusercontent.com
@@ -397,6 +415,52 @@
 2a04:4e42::425 s-f.scribdassets.com
 2a04:4e42::425 s1-f.scribdassets.com
 2a04:4e42::425 s2-f.scribdassets.com
+
+## Twitch
+2a04:4e42::726 twitch.tv
+2a04:4e42::726 www.twitch.tv
+2a04:4e42::726 static.twitchcdn.net
+2a04:4e42::726 desktop-assets.twitchcdn.net
+2a04:4e42::726 vod-storyboards.twitch.tv
+2a02:26f0:6b:590::2405 api.twitch.tv
+2600:9000:2001:cc00:1d:d440:2400:93a1 vod-secure.twitch.tv
+
+## Periscope
+2a04:4e42::605 assets.pscp.tv
+2a04:4e42::676 embed.pscp.tv
+2a04:4e42::676 prod-video-ap-northeast-1.pscp.tv
+2a04:4e42::676 prod-video-ap-southeast-1.pscp.tv
+2a04:4e42::676 prod-video-ap-southeast-2.pscp.tv
+2a04:4e42::676 prod-video-eu-central-1.pscp.tv
+2a04:4e42::676 prod-video-eu-west-1.pscp.tv
+2a04:4e42::676 prod-video-eu-west-2.pscp.tv
+2a04:4e42::676 prod-video-eu-west-3.pscp.tv
+2a04:4e42::676 prod-video-us-west-1.pscp.tv
+2a04:4e42::676 prod-video-us-west-2.pscp.tv
+2a04:4e42::676 prod-video-sa-east-1.pscp.tv
+2a04:4e42::676 prod-video-us-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-northeast-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-2.pscp.tv
+2a04:4e42::676 prod-fastly-eu-central-1.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-1.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-2.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-3.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-1.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-2.pscp.tv
+2a04:4e42::676 prod-fastly-sa-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-us-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-northeast-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-central-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-3.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-sa-east-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-east-1.video.pscp.tv
 
 ## Misc 
 2620:1ec:c11::200 www.bing.com
