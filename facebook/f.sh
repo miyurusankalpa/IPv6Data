@@ -8,9 +8,9 @@ for l1 in {a..z} ; do
 
 				echo $code
 
-				C=$(dig +short scontent.f$code-1.fna.fbcdn.net -t A @8.8.8.8)
-				OUT4="dig +short scontent.f$code-1.fna.fbcdn.net -t A @169.254.169.254"
-				OUT6="dig +short scontent.f$code-1.fna.fbcdn.net -t AAAA @169.254.169.254"
+				C=$(dig +short scontent.f$code-1.fna.fbcdn.net -t A @2001:4860:4860::8888)
+				OUT4="dig +short scontent.f$code-1.fna.fbcdn.net -t A @2606:4700:4700::1111"
+				OUT6="dig +short scontent.f$code-1.fna.fbcdn.net -t AAAA @2606:4700:4700::1001"
 
 				if [ -z $C ]
 					then
@@ -19,7 +19,7 @@ for l1 in {a..z} ; do
 
 				eval "(echo $code; echo ","; $OUT4; echo ","; $OUT6;) | tr '\n' ' ' >> output.csv"
 				eval "(echo "") >> output.csv"
-					sleep .1
+					sleep .2
 			done
 		done
 	done
