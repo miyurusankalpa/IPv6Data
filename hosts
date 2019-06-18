@@ -1,4 +1,5 @@
-###Updated Date: 2019/01/29
+###Updated Date: 2019/06/10
+# Thanks for https://github.com/tambry for some IPs and hosts
 
 ## Amazon S3 Misc 
 2600:1fa0:8028:90c8:34d8:5625:: s3.amazonaws.com
@@ -7,19 +8,30 @@
 2600:1fa0:8028:90c8:34d8:5625:: tunnelbear.s3.amazonaws.com
 
 ## Amazon CloudFront Misc 
-2600:9000:2048:5000:1d:d440:2400:93a1 www.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:93a1 static.lankadeepa.lk
-2600:9000:2048:5000:1d:d440:2400:3a www.amazon.com
-2600:9000:2048:5000:1d:d440:2400:3a aws.amazon.com
-2600:9000:2048:5000:1d:d440:2400:4a images-na.ssl-images-amazon.com
-2600:9000:2048:5000:1d:d440:2400:db www.imdb.com
-2600:9000:2048:5000:1d:d440:2400:db m.media-amazon.com
-2600:9000:2048:5000:1d:d440:2400:9a a.tiles.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:9b b.tiles.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:12aa api.mapbox.com
-2600:9000:2048:5000:1d:d440:2400:db video-http.media-imdb.com
-2600:9000:2048:5000:1d:d440:2400:db s.media-imdb.com
-2600:9000:2003:9200:e:19d6:1546:5981 addons.cdn.mozilla.net
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 aws.amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 images-na.ssl-images-amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 m.media-amazon.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 a.tiles.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 b.tiles.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 api.mapbox.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 video-http.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 s.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 addons.cdn.mozilla.net
+2600:9000:2001:cc00:1d:d440:2400:93a1 imdb-video.media-imdb.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 www.lankadeepa.lk
+2600:9000:2001:cc00:1d:d440:2400:93a1 static.lankadeepa.lk
+2600:9000:2001:cc00:1d:d440:2400:93a1 slack.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 global.localizecdn.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 d31qbv1cthcecs.cloudfront.net
+2600:9000:2001:cc00:1d:d440:2400:93a1 certify.alexametrics.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 api.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 cdn.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 photos.smugmug.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 rottentomatoes.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 editorial.rottentomatoes.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 static.rottentomatoes.com
 
 ## Akamai Misc 
 2a02:26f0:6b:588::1bb7 www.last.fm
@@ -37,6 +49,30 @@
 2a02:26f0:6b:588::1c7b download.amd.com
 2a02:26f0:6b:588::3ff www.amd.com
 2a02:26f0:6b:588::3ff support.amd.com
+2a02:26f0:6b:2a0::88bb spoprod-a.akamaihd.net
+2a02:26f0:6b:2a0::b69 developer.microsoft.com
+2a02:26f0:6b:2a0::b69 dev.microsoft.com
+2a02:26f0:6b:2a0::b69 developers.microsoft.com
+2a02:26f0:d8:4bf::47f www.anandtech.com
+2a02:26f0:d8:4bf::47f images.anandtech.com
+2a02:26f0:d8:4bf::47f natoms-serve.purch.com
+2a02:26f0:d8:4bf::47f natoms-static.purch.com
+2a02:26f0:d8:4bf::47f img.purch.com
+2a02:26f0:d8:4bf::47f privacy.purch.com
+2a02:26f0:3b:292::e1f s7.addthis.com
+2a02:26f0:41:29a::e1f f.addthis.com
+2a02:26f0:3b:292::e1f m.addthis.com
+2a02:26f0:3b:292::e1f m.addthisedge.com
+2a02:26f0:3b:292::e1f api-public.addthis.com
+2a02:26f0:3b::1741:1d43 edge.sharethis.com
+2a02:26f0:3b:293::32b t.sharethis.com
+2a02:26f0:3b::210:3f23 w.sharethis.com
+2a02:26f0:3b:297::102c ws.sharethis.com
+2a02:26f0:3b:297::102c wd-edge.sharethis.com
+2a02:26f0:3b:297::102c buttons-config.sharethis.com
+2a02:26f0:3b:297::102c platform-api.sharethis.com
+2a02:26f0:7b::5f65:163 audio4-ak.spotify.com.edgesuite.net
+2a02:26f0:7b::5f65:163 audio4-ak-spotify-com.akamaized.net
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
@@ -46,9 +82,13 @@
 2a04:4e42:2e::81 www.bbc.com
 2a04:4e42::193 imgur.com
 2a04:4e42::193 i.imgur.com
+2a04:4e42::193 s.imgur.com
 2a04:4e42::193 api.imgur.com
 2a04:4e42::391 www.speedtest.net
+2a04:4e42::728 download.spotify.com
+2a04:4e42::728 upgrade.spotify.com
 2a04:4e42::246 i.scdn.co
+2a04:4e42::246 audio-fa.scdn.co
 2a04:4e42::246 scdn.co
 2a04:4e42::246 daily-mix.scdn.co
 2a04:4e42::246 mosaic.scdn.co
@@ -61,12 +101,53 @@
 2a04:4e42::133 yelp.github.io
 2a04:4e42::133 haubek.github.io
 2a04:4e42::133 artsy.github.io 
-2a04:4e42::726 twitch.tv
-2a04:4e42::726 www.twitch.tv
-2a04:4e42::726 static.twitchcdn.net
+2a04:4e42::645 www.starlink.com
+2a04:4e42::102 downloads.slack-edge.com
+2a04:4e42::102 a.slack-edge.com
+2a04:4e42::129 cartodb-basemaps-a.global.ssl.fastly.net
+2a04:4e42::129 cartodb-basemaps-b.global.ssl.fastly.net
+2a04:4e42::129 cartodb-basemaps-c.global.ssl.fastly.net
+2a04:4e42::561 www.howtogeek.com
+2a04:4e42::134 disqus.com
+2a04:4e42::134 howtogeek.disqus.com
+2a04:4e42::464 myswitzerland.com
+2a04:4e42::282 www.thinkgeek.com
+2a04:4e42::624 www.buzzfeed.com
+2a04:4e42::624 buzzfeed.com
+2a04:4e42::624 img.buzzfeed.com
+2a04:4e42::154 foursquare.com
+2a04:4e42::154 www.foursquare.com
+2a04:4e42::156 swarmapp.com
+2a04:4e42::156 www.swarmapp.com
+2a04:4e42::731 b.cdnst.net
+2a04:4e42::727 dev.to
+2a04:4e42::432 www.timeanddate.com
+2a04:4e42::426 c.tadst.com
+2a04:4e42::645 www.theatlantic.com
+2a04:4e42::645 accounts.theatlantic.com
+2a04:4e42::645 cdn.theatlantic.com
+2a04:4e42::645 data-cdn.theatlantic.com
+2a04:4e42::193 p.imgur.com
+2a04:4e42::193 s.imgur.com
+2a04:4e42::207 urbandictionary.com
+2a04:4e42::425 www.urbandictionary.com
+2a04:4e42::425 api.urbandictionary.com
+2a04:4e42::561 www.forbes.com
+2a04:4e42::561 i.forbesimg.com
+2a04:4e42::561 specials-images.forbesimg.com
+2a04:4e42::561 thumbor.forbes.com
+2a04:4e42::645 comicbook.com
+2a04:4e42::645 asset.comicbook.com
+2a04:4e42::645 media.comicbook.com
+2a04:4e42::678 gizmodo.com
+2a04:4e42::678 avclub.com
+2a04:4e42::678 i.kinja-img.com
+2a04:4e42::246 heads-fa.spotify.com
+2a04:4e42::246 audio-fac.spotify.com
 
 ## Cloudflare Misc 
-2404:6800:4008:c07::79 ipinfo.io
+2606:4700:31::681f:5b2 news.ycombinator.com
+2606:4700:31::681f:5b4 ipinfo.io
 2606:4700:31::681f:5b4 db-ip.com
 2606:4700:31::681f:5b4 api.db-ip.com
 2606:4700:31::681f:5b3 www.lowendtalk.com 
@@ -74,14 +155,43 @@
 2606:4700:31::681f:5b4 blog.cloudflare.com
 2606:4700:31::681f:584 www.troyhunt.com
 2606:4700:31::681f:5b5 i.stack.imgur.com
-#2606:4700:40::681c:daf news.ycombinator.com
-#2400:cb00:2048:1::6810:1923 registry.npmjs.org
- 
-## Misc 
-2620:1ec:c11::200 bing.com
-2620:1ec:c11::200 www.bing.com
-2a02:fe80:1010::12 pahe.in
-2a02:fe80:1010::10 www.wpbeginner.com
+2606:4700:31::681f:5b5 www.backblaze.com
+2606:4700:31::681f:5b5 blog.gotinder.com
+2606:4700:31::681f:5b4 jquery.com
+2606:4700:31::681f:5b4 jqueryui.com
+2606:4700:31::681f:5b4 jquerymobile.com
+2606:4700:31::681f:5b4 sizzlejs.com
+2606:4700:31::681f:5b4 qunitjs.com
+2606:4700:31::681f:5b5 blog.digitalocean.com
+2606:4700:31::681f:5b5 spreadprivacy.com
+2606:4700:31::681f:5b5 blog.mozvr.com
+2606:4700:31::681f:5b5 blog.airtable.com
+2606:4700:31::681f:5b5 blog.revolut.com
+2606:4700:31::681f:5b5 stanfordreview.org
+2606:4700:31::681f:5b5 news.codecademy.com
+2606:4700:31::681f:5b5 blog.codinghorror.com
+2606:4700:31::681f:5b5 tech.okcupid.com
+2606:4700:31::681f:5b5 magazine.onbrand.me
+2606:4700:31::681f:5b5 blog.codecombat.com
+2606:4700:31::681f:5b5 blog.circle.com
+2606:4700:31::681f:5b5 blog.playground.global
+2606:4700:31::681f:5b5 blog.emojipedia.org
+2606:4700:31::681f:5b5 www.shared.com 
+2606:4700:31::681f:5b5 blog.bitpay.com 
+2606:4700:31::681f:5b5 blog.napster.com 
+2606:4700:31::681f:5b5 engineering.gusto.com 
+2606:4700:31::681f:5b5 tech.transferwise.com
+2606:4700:31::681f:5b5 joel.is
+2606:4700:31::681f:5b5 blog.realmacsoftware.com
+2606:4700:31::681f:5b5 www.nginx.com
+
+## Stackpath Misc 
+2001:4de0:ac19::1:b:1a stackpath.bootstrapcdn.com
+2001:4de0:ac19::1:b:1a code.jquery.com
+2001:4de0:ac19::1:b:1a assets-cdn.daybreakgames.com
+2001:4de0:ac19::1:b:1a cdn.runescape.com
+2001:4de0:ac19::1:b:1a  maxcdn.bootstrapcdn.com
+2001:4de0:ac19::1:b:1a  y3k7n9q4.stackpathcdn.com
 
 ## Vimeo 
 2a04:4e42::217 vimeo.com
@@ -93,6 +203,7 @@
 2a04:4e42::621 fpdl.vimeocdn.com
 2a04:4e42::621 extend.vimeocdn.com
 2a04:4e42::621 secure-a.vimeocdn.com
+2a04:4e42::621 fresnel-events.vimeocdn.com
 
 ## Vox Media
 2a04:4e42::308 voxmedia.com
@@ -117,6 +228,16 @@
 2a04:4e42::308 cdn2.vox-cdn.com
 2a04:4e42::308 phonograph2.voxmedia.com
 
+## Pinterest
+2a04:4e42::84 pinterest.com
+2a04:4e42::84 pinterest.de
+2a04:4e42::84 ct.pinterest.com
+2a04:4e42::84 www.pinterest.com
+2a04:4e42::84 www.pinterest.de
+2a04:4e42::84 api.pinterest.com
+2a04:4e42::84 log.pinterest.com
+2a04:4e42::84 widgets.pinterest.com
+
 ## NY Times
 2a04:4e42::420 www.nytimes.com
 2a04:4e42::420 vp.nyt.com
@@ -126,6 +247,16 @@
 2a04:4e42::420 g1.nyt.com
 2a04:4e42::420 samizdat-graphql.nytimes.com
 2a04:4e42::420 typeface.nyt.com
+
+## TheGuardian
+2a04:4e42::367 www.theguardian.com
+2a04:4e42::367 api.nextgen.guardianapps.co.uk
+2a04:4e42::367 assets.guim.co.uk
+2a04:4e42::367 avatar.guim.co.uk
+2a04:4e42::367 uploads.guim.co.uk
+2a04:4e42::367 i.guim.co.uk
+2a04:4e42::367 discussion.theguardian.com
+2a04:4e42::367 interactive.guim.co.uk
 
 ## National Geographic
 2a02:26f0:6b:588::bd6 nationalgeographic.com
@@ -152,7 +283,6 @@
 2600:9000:2048:5000:1d:d440:2400:55 cf.squarespace.com 
 
 ## Github
-#2a04:4e42::400:133 gist.github.com
 2a04:4e42::400:403 assets-cdn.github.com
 2a04:4e42::400:403 camo.githubusercontent.com
 2a04:4e42::400:403 cloud.githubusercontent.com
@@ -243,3 +373,97 @@
 2a04:4e42:2e::258 qph.fs.quoracdn.net
 2a04:4e42:2e::258 qsbr.fs.quoracdn.net
 2a04:4e42:2e::258 qsf.fs.quoracdn.net
+
+# Microsoft
+2a02:26f0:f:282::24c4 account.microsoft.com
+2a02:26f0:d8:393::2255 blogs.msdn.microsoft.com
+2a02:26f0:d8:499::4228 devblogs.microsoft.com
+2a02:26f0:d8:48c::2710 social.microsoft.com
+2a02:26f0:d8:48c::2710 social.msdn.microsoft.com
+2a02:26f0:d8:48c::2710 widgets.services.microsoft.com
+2a02:26f0:d8:4a8::26da i1.social.s-msft.com
+2a02:26f0:d8:4a8::26da i1.services.social.microsoft.com
+2a02:26f0:d8:4a8::26da i4.services.social.microsoft.com
+2a02:26f0:d8:4b6::2963 i-msdn.sec.s-msft.com
+2a02:26f0:d8:4b6::2963 i2-msdn.sec.s-msft.com
+2a02:26f0:d8:48d::ad7 sec.ch9.ms
+2a02:26f0:f::6011:c49b mwf-service.akamaized.net
+2620:1ec:21::13 onedrive.live.com
+2620:1ec:21::12 api.onedrive.com
+2620:1ec:21::12 bn1302files.storage.live.com
+2620:1ec:21::12 public.bn.files.1drv.com
+2620:1ec:8f8::8 studentglendale-my.sharepoint.com
+2620:1ec:8f8::8 mysmccd-my.sharepoint.com
+#2620:1ec:8f8::13 eastus21-mediap.svc.ms
+
+## Scribd
+2a04:4e42::664 scribd.com
+2a04:4e42::664 www.scribd.com
+2a04:4e42::664 de.scribd.com
+2a04:4e42::664 rs1.scribd.com
+2a04:4e42::664 rs2.scribd.com
+2a04:4e42::664 rs3.scribd.com
+2a04:4e42::664 rs4.scribd.com
+2a04:4e42::664 rs5.scribd.com
+2a04:4e42::664 rs6.scribd.com
+2a04:4e42::664 rs7.scribd.com
+2a04:4e42::664 rs8.scribd.com
+2a04:4e42::425 html1-f.scribdassets.com
+2a04:4e42::425 html2-f.scribdassets.com
+2a04:4e42::425 imgv2-1-f.scribdassets.com
+2a04:4e42::425 imgv2-2-f.scribdassets.com
+2a04:4e42::425 s-f.scribdassets.com
+2a04:4e42::425 s1-f.scribdassets.com
+2a04:4e42::425 s2-f.scribdassets.com
+
+## Twitch
+2a04:4e42::726 twitch.tv
+2a04:4e42::726 www.twitch.tv
+2a04:4e42::726 static.twitchcdn.net
+2a04:4e42::726 desktop-assets.twitchcdn.net
+2a04:4e42::726 vod-storyboards.twitch.tv
+2a02:26f0:6b:590::2405 api.twitch.tv
+2600:9000:2001:cc00:1d:d440:2400:93a1 vod-secure.twitch.tv
+
+## Periscope
+2a04:4e42::605 assets.pscp.tv
+2a04:4e42::676 embed.pscp.tv
+2a04:4e42::676 prod-video-ap-northeast-1.pscp.tv
+2a04:4e42::676 prod-video-ap-southeast-1.pscp.tv
+2a04:4e42::676 prod-video-ap-southeast-2.pscp.tv
+2a04:4e42::676 prod-video-eu-central-1.pscp.tv
+2a04:4e42::676 prod-video-eu-west-1.pscp.tv
+2a04:4e42::676 prod-video-eu-west-2.pscp.tv
+2a04:4e42::676 prod-video-eu-west-3.pscp.tv
+2a04:4e42::676 prod-video-us-west-1.pscp.tv
+2a04:4e42::676 prod-video-us-west-2.pscp.tv
+2a04:4e42::676 prod-video-sa-east-1.pscp.tv
+2a04:4e42::676 prod-video-us-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-northeast-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-2.pscp.tv
+2a04:4e42::676 prod-fastly-eu-central-1.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-1.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-2.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-3.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-1.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-2.pscp.tv
+2a04:4e42::676 prod-fastly-sa-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-us-east-1.pscp.tv
+2a04:4e42::676 prod-fastly-ap-northeast-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-ap-southeast-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-central-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-eu-west-3.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-west-2.video.pscp.tv
+2a04:4e42::676 prod-fastly-sa-east-1.video.pscp.tv
+2a04:4e42::676 prod-fastly-us-east-1.video.pscp.tv
+
+## Misc 
+2620:1ec:c11::200 www.bing.com
+2a02:fe80:1010::10 www.wpbeginner.com
+2606:2800:147:ff8:129b:22eb:20b:1347 ajax.aspnetcdn.com
+2001:41d0:1:8720::1 archive.is
