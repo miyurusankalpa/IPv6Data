@@ -6,6 +6,8 @@
 
 This project was created, because some of the CDN services have IPv6 enabled, but does not serve IPv6 records using DNS.
 
+My IPv6 only servers based on Europe uses this hosts file.
+
 **NOTE: As this is bypassing DNS servers completely, this might make some of these services which uses geodns will be slow. you should definitely check the performance and change or comment out hosts accordingly.**
 
 ### How to use

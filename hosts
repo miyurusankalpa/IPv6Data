@@ -1,4 +1,4 @@
-###Updated Date: 2019/06/10
+###Updated Date: 2019/06/26
 # Thanks for https://github.com/tambry for some IPs and hosts
 
 ## Amazon S3 Misc 
@@ -32,6 +32,7 @@
 2600:9000:2001:cc00:1d:d440:2400:93a1 rottentomatoes.com
 2600:9000:2001:cc00:1d:d440:2400:93a1 editorial.rottentomatoes.com
 2600:9000:2001:cc00:1d:d440:2400:93a1 static.rottentomatoes.com
+2600:9000:2001:cc00:1d:d440:2400:93a1 oxygenos.oneplus.net
 
 ## Akamai Misc 
 2a02:26f0:6b:588::1bb7 www.last.fm
@@ -44,7 +45,7 @@
 2a02:26f0:6b:588::19fd use.typekit.net
 2a02:26f0:6b:588::3823 pbs.twimg.com 
 2a02:26f0:6b:588::3824 video.twimg.com 
-2a02:26f0:6b:588::134f totaleclips-a.akamaihd.net
+2a02:26f0:7b::5f65:c3 totaleclips-a.akamaihd.net
 2a02:26f0:6b:588::1c7b drivers.amd.com
 2a02:26f0:6b:588::1c7b download.amd.com
 2a02:26f0:6b:588::3ff www.amd.com
@@ -73,6 +74,7 @@
 2a02:26f0:3b:297::102c platform-api.sharethis.com
 2a02:26f0:7b::5f65:163 audio4-ak.spotify.com.edgesuite.net
 2a02:26f0:7b::5f65:163 audio4-ak-spotify-com.akamaized.net
+2a02:26f0:7b::5f65:70 spoprod-a.akamaihd.net
 
 ## Faslty Misc 
 #2a04:4e42::325 stackoverflow.com 
@@ -94,13 +96,6 @@
 2a04:4e42::246 mosaic.scdn.co
 2a04:4e42::246 charts-images.scdn.co
 2a04:4e42::246 pl.scdn.co
-2a04:4e42::133 square.github.io 
-2a04:4e42::133 ibm.github.io 
-2a04:4e42::133 twitter.github.io
-2a04:4e42::133 microsoft.github.io 
-2a04:4e42::133 yelp.github.io
-2a04:4e42::133 haubek.github.io
-2a04:4e42::133 artsy.github.io 
 2a04:4e42::645 www.starlink.com
 2a04:4e42::102 downloads.slack-edge.com
 2a04:4e42::102 a.slack-edge.com
@@ -184,6 +179,10 @@
 2606:4700:31::681f:5b5 joel.is
 2606:4700:31::681f:5b5 blog.realmacsoftware.com
 2606:4700:31::681f:5b5 www.nginx.com
+2606:4700:31::681f:5b5 freenode.net
+#2606:4700:31::681f:5b5 webchat.freenode.net
+2606:4700:31::681f:5b5 www.mediafire.com
+2606:4700:31::681f:5b5 www.mediafire.com
 
 ## Stackpath Misc 
 2001:4de0:ac19::1:b:1a stackpath.bootstrapcdn.com
@@ -294,6 +293,14 @@
 2a04:4e42::400:403 marketplace-images.githubusercontent.com
 2a04:4e42::400:403 user-images.githubusercontent.com
 2a04:4e42::400:403 raw.githubusercontent.com
+2a04:4e42::133 atom-installer.github.com
+2a04:4e42::133 square.github.io 
+2a04:4e42::133 ibm.github.io 
+2a04:4e42::133 twitter.github.io
+2a04:4e42::133 microsoft.github.io 
+2a04:4e42::133 yelp.github.io
+2a04:4e42::133 haubek.github.io
+2a04:4e42::133 artsy.github.io
 
 ## Reddit
 2a04:4e42::396 reddit.com 
@@ -395,6 +402,7 @@
 2620:1ec:8f8::8 studentglendale-my.sharepoint.com
 2620:1ec:8f8::8 mysmccd-my.sharepoint.com
 #2620:1ec:8f8::13 eastus21-mediap.svc.ms
+2606:2800:133:f17:19e8:2356:251b:2a9 software-download.microsoft.com
 
 ## Scribd
 2a04:4e42::664 scribd.com
