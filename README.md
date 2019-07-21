@@ -1,3 +1,7 @@
+# Update
+
+I won't be updating the host file in favor of https://github.com/miyurusankalpa/IPv6-dns-server
+
 # IPv6hosts
 
 ![B|Solid](https://www.ipv6.com/wp-content/uploads/2018/06/ipv6-logo-2.png)
