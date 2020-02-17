@@ -19,3 +19,6 @@ https://tracker6.lelux.fi:443/announce
 
 http://tracker.veryamt.com/announce
 https://cernet-tracker.appspot.com/announce
+
+udp://tracker.datacenterlight.ch:6969/announce
+http://tracker.datacenterlight.ch:6969/announce
