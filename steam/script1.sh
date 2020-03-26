@@ -26,8 +26,8 @@ for code in $codes; do
 				  break
 				fi
 				
-				eval "(echo $domain; echo ","; $OUT4; echo ","; $OUT6;) | tr '\n' ' ' >> output.csv"
-				eval "(echo "") >> output.csv"
+				eval "(echo $domain; echo ","; $OUT4; echo ","; $OUT6;) | tr '\n' ' ' >> output1.csv"
+				eval "(echo "") >> output1.csv"
 					sleep .2
 	done
 done
