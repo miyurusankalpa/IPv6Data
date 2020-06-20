@@ -2,8 +2,8 @@ Domain,IPv4,IPv6
 valve39.steamcontent.com , 103.66.31.68 , 2001:4de0:6211::6742:1f44 
 valve167.steamcontent.com , 185.25.183.130 , 2a01:bc80:3:101::b919:b782 
 valve169.steamcontent.com , 185.25.183.146 , 2a01:bc80:3:103::b919:b792 
-valve300.steamcontent.com , 162.254.192.2 , 2620:f9:2:101::a2fe:c002 
-valve301.steamcontent.com , 162.254.192.34 , 2620:f9:2:102::a2fe:c022 
+valve300.steamcontent.com , 162.254.192.2 , 2602:801:f002:101::a2fe:c002 
+valve301.steamcontent.com , 162.254.192.34 , 2602:801:f002:102::a2fe:c022 
 valve400.steamcontent.com , 162.254.196.2 , 
 valve401.steamcontent.com , 162.254.196.34 , 
 valve418.steamcontent.com , 162.254.196.11 , 2a01:bc80:4:100::a2fe:c40b 
@@ -12,26 +12,26 @@ valve500.steamcontent.com , 155.133.250.75 , 2a01:bc80:5:105::9b85:fa4b
 valve501.steamcontent.com , 155.133.250.107 , 2a01:bc80:5:106::9b85:fa6b 
 valve502.steamcontent.com , 155.133.250.76 , 2a01:bc80:5:105::9b85:fa4c 
 valve503.steamcontent.com , 155.133.250.108 , 2a01:bc80:5:106::9b85:fa6c 
-valve600.steamcontent.com , 162.254.193.10 , 2620:f9:7:100::a2fe:c10a 
-valve601.steamcontent.com , 162.254.193.34 , 2620:f9:7:101::a2fe:c122 
-valve700.steamcontent.com , 162.254.195.2 , 2620:f9:6:100::a2fe:c302 
-valve701.steamcontent.com , 162.254.195.3 , 2620:f9:6:100::a2fe:c303 
-valve800.steamcontent.com , 162.254.199.130 , 2620:f9:8:100::a2fe:c782 
-valve801.steamcontent.com , 162.254.199.194 , 2620:f9:8:102::a2fe:c7c2 
+valve600.steamcontent.com , 162.254.193.10 , 2602:801:f007:100::a2fe:c10a 
+valve601.steamcontent.com , 162.254.193.34 , 2602:801:f007:101::a2fe:c122 
+valve700.steamcontent.com , 162.254.195.2 , 2602:801:f006:100::a2fe:c302 
+valve701.steamcontent.com , 162.254.195.3 , 2602:801:f006:100::a2fe:c303 
+valve800.steamcontent.com , 162.254.199.130 , 2602:801:f008:100::a2fe:c782 
+valve801.steamcontent.com , 162.254.199.194 , 2602:801:f008:102::a2fe:c7c2 
 valve900.steamcontent.com , 162.254.198.77 , 2a01:bc80:1:104::a2fe:c64d 
 valve901.steamcontent.com , 162.254.198.13 , 2a01:bc80:1:103::a2fe:c60d 
 valve950.steamcontent.com , 155.133.252.10 , 
 valve951.steamcontent.com , 155.133.252.11 , 
 valve1000.steamcontent.com , 103.10.124.67 , 2404:3fc0:0:100::670a:7c43 
 valve1001.steamcontent.com , 103.10.124.2 , 2404:3fc0:0:101::670a:7c02 
-valve1100.steamcontent.com , 205.185.194.11 , 2620:f9:5:100::cdb9:c20b 
-valve1101.steamcontent.com , 205.185.194.19 , 2620:f9:5:103::cdb9:c213 
+valve1100.steamcontent.com , 205.185.194.11 , 2602:801:f005:100::cdb9:c20b 
+valve1101.steamcontent.com , 205.185.194.19 , 2602:801:f005:103::cdb9:c213 
 valve1201.steamcontent.com , 146.66.155.18 , 2a01:bc80:2:101::9242:9b12 
 valve1202.steamcontent.com , 146.66.155.12 , 2a01:bc80:2:100::9242:9b0c 
 valve1300.steamcontent.com , 155.133.239.8 , 2404:3fc0:5:100::9b85:ef08 
 valve1301.steamcontent.com , 155.133.239.41 , 2404:3fc0:5:101::9b85:ef29 
+valve1600.steamcontent.com , 155.133.248.12 , 2a01:bc80:7:100::9b85:f80c 
 valve1601.steamcontent.com , 155.133.248.11 , 2a01:bc80:7:100::9b85:f80b 
-valve1602.steamcontent.com , 155.133.248.12 , 2a01:bc80:7:100::9b85:f80c 
 valve1603.steamcontent.com , 155.133.248.13 , 
 valve1700.steamcontent.com , 155.133.249.131 , 
 valve1701.steamcontent.com , 155.133.249.132 , 
@@ -43,8 +43,8 @@ valve2000.steamcontent.com , 103.10.125.2 , 2404:3fc0:1:103::670a:7d02
 valve2001.steamcontent.com , 103.10.125.20 , 2404:3fc0:1:104::670a:7d14 
 valve2100.steamcontent.com , 155.133.230.2 , 2a01:bc80:9:100::9b85:e602 
 valve2101.steamcontent.com , 155.133.230.18 , 2a01:bc80:9:101::9b85:e612 
-valve2300.steamcontent.com , 155.133.254.2 , 2620:f9:3:100::9b85:fe02 
-valve2301.steamcontent.com , 155.133.254.18 , 2620:f9:3:101::9b85:fe12 
+valve2300.steamcontent.com , 155.133.254.2 , 2602:801:f003:100::9b85:fe02 
+valve2301.steamcontent.com , 155.133.254.18 , 2602:801:f003:101::9b85:fe12 
 valve2400.steamcontent.com , 155.133.238.130 , 2a01:bc80:b:100::9b85:ee82 
 valve2401.steamcontent.com , 155.133.238.146 , 2a01:bc80:b:101::9b85:ee92 
 valve2500.steamcontent.com , 185.25.182.2 , 2a01:bc80:a:100::b919:b602 

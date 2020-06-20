@@ -2,307 +2,304 @@ Domain,IPv4,IPv6
 cache1-maa1.steamcontent.com , 155.133.232.66 , 
 cache1-lhr1.steamcontent.com , 162.254.196.3 , 
 cache2-lhr1.steamcontent.com , 162.254.196.35 , 
-cache3-lhr1.steamcontent.com , 162.254.196.2 , 
-cache4-lhr1.steamcontent.com , 162.254.196.36 , 
-cache5-lhr1.steamcontent.com , 162.254.196.34 , 
+cache3-lhr1.steamcontent.com , 162.254.196.2 , 2a01:bc80:4:100::a2fe:c402 
+cache4-lhr1.steamcontent.com , 162.254.196.36 , 2a01:bc80:4:101::a2fe:c424 
+cache5-lhr1.steamcontent.com , 162.254.196.34 , 2a01:bc80:4:101::a2fe:c422 
 cache6-lhr1.steamcontent.com , 162.254.196.37 , 
-cache8-lhr1.steamcontent.com , 162.254.196.38 , 
-cache10-lhr1.steamcontent.com , 162.254.196.39 , 
-cache11-lhr1.steamcontent.com , 162.254.196.8 , 
+cache8-lhr1.steamcontent.com , 162.254.196.38 , 2a01:bc80:4:101::a2fe:c426 
+cache10-lhr1.steamcontent.com , 162.254.196.39 , 2a01:bc80:4:101::a2fe:c427 
+cache11-lhr1.steamcontent.com , 162.254.196.8 , 2a01:bc80:4:100::a2fe:c408 
 cache12-lhr1.steamcontent.com , 162.254.196.40 , 
-cache13-lhr1.steamcontent.com , 162.254.196.9 , 
-cache14-lhr1.steamcontent.com , 162.254.196.41 , 
-cache15-lhr1.steamcontent.com , 162.254.196.10 , 
-cache16-lhr1.steamcontent.com , 162.254.196.42 , 
-cache19-lhr1.steamcontent.com , 162.254.196.12 , 
-cache20-lhr1.steamcontent.com , 162.254.196.44 , 
-cache21-lhr1.steamcontent.com , 162.254.196.13 , 
-cache22-lhr1.steamcontent.com , 162.254.196.45 , 
-cache23-lhr1.steamcontent.com , 162.254.196.14 , 
-cache24-lhr1.steamcontent.com , 162.254.196.46 , 
-cache25-lhr1.steamcontent.com , 162.254.196.15 , 
-cache26-lhr1.steamcontent.com , 162.254.196.16 , 
-cache27-lhr1.steamcontent.com , 162.254.196.47 , 
-cache28-lhr1.steamcontent.com , 162.254.196.48 , 
-cache29-lhr1.steamcontent.com , 162.254.196.17 , 
-cache30-lhr1.steamcontent.com , 162.254.196.49 , 
-cache31-lhr1.steamcontent.com , 162.254.196.18 , 
-cache32-lhr1.steamcontent.com , 162.254.196.50 , 
-cache33-lhr1.steamcontent.com , 162.254.196.19 , 
-cache34-lhr1.steamcontent.com , 162.254.196.51 , 
-cache35-lhr1.steamcontent.com , 162.254.196.20 , 
-cache2-ams1.steamcontent.com , 155.133.248.13 , 
-cache3-ams1.steamcontent.com , 155.133.248.14 , 
-cache4-ams1.steamcontent.com , 155.133.248.15 , 
-cache5-ams1.steamcontent.com , 155.133.248.16 , 
-cache6-ams1.steamcontent.com , 155.133.248.17 , 
-cache7-ams1.steamcontent.com , 155.133.248.18 , 
-cache8-ams1.steamcontent.com , 155.133.248.19 , 
-cache9-ams1.steamcontent.com , 155.133.248.20 , 
-cache10-ams1.steamcontent.com , 155.133.248.21 , 
-cache11-ams1.steamcontent.com , 155.133.248.22 , 
-cache12-ams1.steamcontent.com , 155.133.248.23 , 
-cache13-ams1.steamcontent.com , 155.133.248.24 , 
-cache14-ams1.steamcontent.com , 155.133.248.25 , 
-cache15-ams1.steamcontent.com , 155.133.248.26 , 
-cache16-ams1.steamcontent.com , 155.133.248.27 , 
-cache17-ams1.steamcontent.com , 155.133.248.28 , 
-cache18-ams1.steamcontent.com , 155.133.248.29 , 
-cache1-sgp1.steamcontent.com , 103.10.124.17 , 
-cache2-sgp1.steamcontent.com , 103.10.124.18 , 
-cache3-sgp1.steamcontent.com , 103.10.124.69 , 
-cache4-sgp1.steamcontent.com , 103.10.124.20 , 
-cache5-sgp1.steamcontent.com , 103.10.124.70 , 
-cache6-sgp1.steamcontent.com , 103.10.124.22 , 
-cache7-sgp1.steamcontent.com , 103.10.124.71 , 
-cache8-sgp1.steamcontent.com , 103.10.124.19 , 
-cache9-sgp1.steamcontent.com , 103.10.124.72 , 
-cache10-sgp1.steamcontent.com , 103.10.124.21 , 
-cache11-sgp1.steamcontent.com , 103.10.124.73 , 
-cache12-sgp1.steamcontent.com , 103.10.124.68 , 
-cache1-sto1.steamcontent.com , 162.254.198.78 , 
-cache2-sto1.steamcontent.com , 162.254.198.14 , 
-cache3-sto1.steamcontent.com , 162.254.198.81 , 
-cache4-sto1.steamcontent.com , 162.254.198.17 , 
-cache5-sto1.steamcontent.com , 162.254.198.82 , 
-cache6-sto1.steamcontent.com , 162.254.198.18 , 
-cache7-sto1.steamcontent.com , 162.254.198.83 , 
-cache8-sto1.steamcontent.com , 162.254.198.19 , 
-cache9-sto1.steamcontent.com , 162.254.198.84 , 
-cache10-sto1.steamcontent.com , 162.254.198.20 , 
-cache1-sto2.steamcontent.com , 155.133.252.12 , 
-cache2-sto2.steamcontent.com , 155.133.252.18 , 
-cache3-sto2.steamcontent.com , 155.133.252.14 , 
-cache4-sto2.steamcontent.com , 155.133.252.19 , 
-cache5-sto2.steamcontent.com , 155.133.252.10 , 
-cache6-sto2.steamcontent.com , 155.133.252.13 , 
-cache7-sto2.steamcontent.com , 155.133.252.20 , 
-cache8-sto2.steamcontent.com , 155.133.252.9 , 
-cache9-sto2.steamcontent.com , 155.133.252.21 , 
-cache10-sto2.steamcontent.com , 155.133.252.22 , 
-cache1-fra1.steamcontent.com , 162.254.197.12 , 
-cache2-fra1.steamcontent.com , 162.254.197.13 , 
-cache3-fra1.steamcontent.com , 162.254.197.14 , 
-cache4-fra1.steamcontent.com , 162.254.197.15 , 
-cache5-fra1.steamcontent.com , 162.254.197.16 , 
-cache6-fra1.steamcontent.com , 162.254.197.17 , 
-cache7-fra1.steamcontent.com , 162.254.197.18 , 
-cache8-fra1.steamcontent.com , 162.254.197.19 , 
-cache9-fra1.steamcontent.com , 162.254.197.20 , 
-cache10-fra1.steamcontent.com , 162.254.197.21 , 
-cache11-fra1.steamcontent.com , 162.254.197.22 , 
-cache12-fra1.steamcontent.com , 162.254.197.23 , 
-cache13-fra1.steamcontent.com , 162.254.197.24 , 
-cache14-fra1.steamcontent.com , 162.254.197.25 , 
-cache15-fra1.steamcontent.com , 162.254.197.26 , 
-cache16-fra1.steamcontent.com , 162.254.197.27 , 
-cache17-fra1.steamcontent.com , 162.254.197.28 , 
-cache20-fra1.steamcontent.com , 162.254.197.31 , 
-cache21-fra1.steamcontent.com , 162.254.197.82 , 
-cache22-fra1.steamcontent.com , 162.254.197.83 , 
-cache23-fra1.steamcontent.com , 162.254.197.84 , 
-cache24-fra1.steamcontent.com , 162.254.197.85 , 
-cache25-fra1.steamcontent.com , 162.254.197.86 , 
-cache26-fra1.steamcontent.com , 162.254.197.10 , 
-cache27-fra1.steamcontent.com , 162.254.197.88 , 
-cache28-fra1.steamcontent.com , 162.254.197.89 , 
-cache29-fra1.steamcontent.com , 162.254.197.90 , 
-cache30-fra1.steamcontent.com , 162.254.197.91 , 
-cache31-fra1.steamcontent.com , 162.254.197.92 , 
-cache32-fra1.steamcontent.com , 162.254.197.93 , 
-cache33-fra1.steamcontent.com , 162.254.197.11 , 
-cache34-fra1.steamcontent.com , 162.254.197.95 , 
-cache35-fra1.steamcontent.com , 162.254.197.96 , 
-cache36-fra1.steamcontent.com , 162.254.197.97 , 
-cache37-fra1.steamcontent.com , 162.254.197.98 , 
-cache38-fra1.steamcontent.com , 162.254.197.99 , 
-cache39-fra1.steamcontent.com , 162.254.197.100 , 
-cache40-fra1.steamcontent.com , 162.254.197.101 , 
-cache41-fra1.steamcontent.com , 162.254.197.102 , 
-cache42-fra1.steamcontent.com , 162.254.197.103 , 
-cache43-fra1.steamcontent.com , 162.254.197.104 , 
-cache44-fra1.steamcontent.com , 162.254.197.105 , 
-cache45-fra1.steamcontent.com , 162.254.197.106 , 
-cache46-fra1.steamcontent.com , 162.254.197.107 , 
-cache47-fra1.steamcontent.com , 162.254.197.108 , 
-cache48-fra1.steamcontent.com , 162.254.197.109 , 
-cache49-fra1.steamcontent.com , 162.254.197.110 , 
-cache50-fra1.steamcontent.com , 162.254.197.111 , 
-cache51-fra1.steamcontent.com , 155.133.250.98 , 
-cache52-fra1.steamcontent.com , 155.133.250.66 , 
-cache53-fra1.steamcontent.com , 155.133.250.99 , 
-cache54-fra1.steamcontent.com , 155.133.250.67 , 
-cache55-fra1.steamcontent.com , 155.133.250.100 , 
-cache56-fra1.steamcontent.com , 155.133.250.68 , 
-cache57-fra1.steamcontent.com , 155.133.250.101 , 
-cache58-fra1.steamcontent.com , 155.133.250.69 , 
-cache59-fra1.steamcontent.com , 155.133.250.102 , 
-cache61-fra1.steamcontent.com , 155.133.250.70 , 
-cache62-fra1.steamcontent.com , 155.133.250.103 , 
-cache63-fra1.steamcontent.com , 155.133.250.71 , 
-cache64-fra1.steamcontent.com , 155.133.250.104 , 
-cache65-fra1.steamcontent.com , 155.133.250.72 , 
-cache66-fra1.steamcontent.com , 155.133.250.105 , 
-cache67-fra1.steamcontent.com , 155.133.250.73 , 
-cache68-fra1.steamcontent.com , 155.133.250.106 , 
-cache69-fra1.steamcontent.com , 155.133.250.74 , 
-cache1-par1.steamcontent.com , 185.25.182.3 , 
-cache2-par1.steamcontent.com , 185.25.182.35 , 
-cache3-par1.steamcontent.com , 185.25.182.4 , 
-cache4-par1.steamcontent.com , 185.25.182.36 , 
-cache5-par1.steamcontent.com , 185.25.182.5 , 
-cache6-par1.steamcontent.com , 185.25.182.37 , 
-cache7-par1.steamcontent.com , 185.25.182.6 , 
-cache8-par1.steamcontent.com , 185.25.182.38 , 
-cache1-iad1.steamcontent.com , 162.254.192.3 , 
-cache2-iad1.steamcontent.com , 162.254.192.35 , 
-cache3-iad1.steamcontent.com , 162.254.192.4 , 
-cache4-iad1.steamcontent.com , 162.254.192.36 , 
-cache5-iad1.steamcontent.com , 162.254.192.5 , 
-cache6-iad1.steamcontent.com , 162.254.192.37 , 
-cache7-iad1.steamcontent.com , 162.254.192.6 , 
-cache8-iad1.steamcontent.com , 162.254.192.38 , 
-cache9-iad1.steamcontent.com , 162.254.192.7 , 
-cache10-iad1.steamcontent.com , 162.254.192.39 , 
-cache11-iad1.steamcontent.com , 162.254.192.8 , 
-cache12-iad1.steamcontent.com , 162.254.192.40 , 
-cache13-iad1.steamcontent.com , 162.254.192.9 , 
-cache14-iad1.steamcontent.com , 162.254.192.41 , 
-cache15-iad1.steamcontent.com , 162.254.192.10 , 
-cache16-iad1.steamcontent.com , 162.254.192.42 , 
-cache17-iad1.steamcontent.com , 162.254.192.11 , 
-cache18-iad1.steamcontent.com , 162.254.192.43 , 
-cache19-iad1.steamcontent.com , 162.254.192.12 , 
-cache20-iad1.steamcontent.com , 162.254.192.44 , 
-cache21-iad1.steamcontent.com , 162.254.192.13 , 
-cache22-iad1.steamcontent.com , 162.254.192.45 , 
-cache23-iad1.steamcontent.com , 162.254.192.14 , 
-cache24-iad1.steamcontent.com , 162.254.192.46 , 
-cache25-iad1.steamcontent.com , 162.254.192.15 , 
-cache26-iad1.steamcontent.com , 162.254.192.47 , 
-cache27-iad1.steamcontent.com , 162.254.192.18 , 
-cache28-iad1.steamcontent.com , 162.254.192.48 , 
+cache13-lhr1.steamcontent.com , 162.254.196.9 , 2a01:bc80:4:100::a2fe:c409 
+cache14-lhr1.steamcontent.com , 162.254.196.41 , 2a01:bc80:4:101::a2fe:c429 
+cache15-lhr1.steamcontent.com , 162.254.196.10 , 2a01:bc80:4:100::a2fe:c40a 
+cache16-lhr1.steamcontent.com , 162.254.196.42 , 2a01:bc80:4:101::a2fe:c42a 
+cache19-lhr1.steamcontent.com , 162.254.196.12 , 2a01:bc80:4:100::a2fe:c40c 
+cache20-lhr1.steamcontent.com , 162.254.196.44 , 2a01:bc80:4:101::a2fe:c42c 
+cache21-lhr1.steamcontent.com , 162.254.196.13 , 2a01:bc80:4:100::a2fe:c40d 
+cache22-lhr1.steamcontent.com , 162.254.196.45 , 2a01:bc80:4:101::a2fe:c42d 
+cache23-lhr1.steamcontent.com , 162.254.196.14 , 2a01:bc80:4:100::a2fe:c40e 
+cache24-lhr1.steamcontent.com , 162.254.196.46 , 2a01:bc80:4:101::a2fe:c42e 
+cache25-lhr1.steamcontent.com , 162.254.196.15 , 2a01:bc80:4:100::a2fe:c40f 
+cache26-lhr1.steamcontent.com , 162.254.196.16 , 2a01:bc80:4:100::a2fe:c410 
+cache27-lhr1.steamcontent.com , 162.254.196.47 , 2a01:bc80:4:101::a2fe:c42f 
+cache28-lhr1.steamcontent.com , 162.254.196.48 , 2a01:bc80:4:101::a2fe:c430 
+cache29-lhr1.steamcontent.com , 162.254.196.17 , 2a01:bc80:4:100::a2fe:c411 
+cache30-lhr1.steamcontent.com , 162.254.196.49 , 2a01:bc80:4:101::a2fe:c431 
+cache31-lhr1.steamcontent.com , 162.254.196.18 , 2a01:bc80:4:100::a2fe:c412 
+cache32-lhr1.steamcontent.com , 162.254.196.50 , 2a01:bc80:4:101::a2fe:c432 
+cache33-lhr1.steamcontent.com , 162.254.196.19 , 2a01:bc80:4:100::a2fe:c413 
+cache34-lhr1.steamcontent.com , 162.254.196.51 , 2a01:bc80:4:101::a2fe:c433 
+cache35-lhr1.steamcontent.com , 162.254.196.20 , 2a01:bc80:4:100::a2fe:c414 
+cache2-ams1.steamcontent.com , 155.133.248.13 , 2a01:bc80:7:100::9b85:f80d 
+cache3-ams1.steamcontent.com , 155.133.248.14 , 2a01:bc80:7:100::9b85:f80e 
+cache4-ams1.steamcontent.com , 155.133.248.15 , 2a01:bc80:7:100::9b85:f80f 
+cache5-ams1.steamcontent.com , 155.133.248.16 , 2a01:bc80:7:100::9b85:f810 
+cache6-ams1.steamcontent.com , 155.133.248.17 , 2a01:bc80:7:100::9b85:f811 
+cache7-ams1.steamcontent.com , 155.133.248.18 , 2a01:bc80:7:100::9b85:f812 
+cache8-ams1.steamcontent.com , 155.133.248.19 , 2a01:bc80:7:100::9b85:f813 
+cache9-ams1.steamcontent.com , 155.133.248.20 , 2a01:bc80:7:100::9b85:f814 
+cache10-ams1.steamcontent.com , 155.133.248.21 , 2a01:bc80:7:100::9b85:f815 
+cache11-ams1.steamcontent.com , 155.133.248.22 , 2a01:bc80:7:100::9b85:f816 
+cache12-ams1.steamcontent.com , 155.133.248.23 , 2a01:bc80:7:100::9b85:f817 
+cache13-ams1.steamcontent.com , 155.133.248.24 , 2a01:bc80:7:100::9b85:f818 
+cache14-ams1.steamcontent.com , 155.133.248.25 , 2a01:bc80:7:100::9b85:f819 
+cache15-ams1.steamcontent.com , 155.133.248.26 , 2a01:bc80:7:100::9b85:f81a 
+cache16-ams1.steamcontent.com , 155.133.248.27 , 2a01:bc80:7:100::9b85:f81b 
+cache17-ams1.steamcontent.com , 155.133.248.28 , 2a01:bc80:7:100::9b85:f81c 
+cache18-ams1.steamcontent.com , 155.133.248.29 , 2a01:bc80:7:100::9b85:f81d 
+cache1-sgp1.steamcontent.com , 103.10.124.17 , 2404:3fc0:0:101::670a:7c11 
+cache2-sgp1.steamcontent.com , 103.10.124.18 , 2404:3fc0:0:101::670a:7c12 
+cache3-sgp1.steamcontent.com , 103.10.124.69 , 2404:3fc0:0:100::670a:7c45 
+cache4-sgp1.steamcontent.com , 103.10.124.20 , 2404:3fc0:0:101::670a:7c14 
+cache5-sgp1.steamcontent.com , 103.10.124.70 , 2404:3fc0:0:100::670a:7c46 
+cache6-sgp1.steamcontent.com , 103.10.124.22 , 2404:3fc0:0:101::670a:7c16 
+cache7-sgp1.steamcontent.com , 103.10.124.71 , 2404:3fc0:0:100::670a:7c47 
+cache8-sgp1.steamcontent.com , 103.10.124.19 , 2404:3fc0:0:101::670a:7c13 
+cache9-sgp1.steamcontent.com , 103.10.124.72 , 2404:3fc0:0:100::670a:7c48 
+cache10-sgp1.steamcontent.com , 103.10.124.21 , 2404:3fc0:0:101::670a:7c15 
+cache11-sgp1.steamcontent.com , 103.10.124.73 , 2404:3fc0:0:100::670a:7c49 
+cache12-sgp1.steamcontent.com , 103.10.124.68 , 2404:3fc0:0:100::670a:7c44 
+cache1-sto1.steamcontent.com , 162.254.198.78 , 2a01:bc80:1:104::a2fe:c64e 
+cache2-sto1.steamcontent.com , 162.254.198.14 , 2a01:bc80:1:103::a2fe:c60e 
+cache3-sto1.steamcontent.com , 162.254.198.81 , 2a01:bc80:1:104::a2fe:c651 
+cache4-sto1.steamcontent.com , 162.254.198.17 , 2a01:bc80:1:103::a2fe:c611 
+cache5-sto1.steamcontent.com , 162.254.198.82 , 2a01:bc80:1:104::a2fe:c652 
+cache6-sto1.steamcontent.com , 162.254.198.18 , 2a01:bc80:1:103::a2fe:c612 
+cache7-sto1.steamcontent.com , 162.254.198.83 , 2a01:bc80:1:104::a2fe:c653 
+cache8-sto1.steamcontent.com , 162.254.198.19 , 2a01:bc80:1:103::a2fe:c613 
+cache9-sto1.steamcontent.com , 162.254.198.84 , 2a01:bc80:1:104::a2fe:c654 
+cache10-sto1.steamcontent.com , 162.254.198.20 , 2a01:bc80:1:103::a2fe:c614 
+cache1-sto2.steamcontent.com , 155.133.252.12 , 2a01:bc80:8:100::9b85:fc0c 
+cache2-sto2.steamcontent.com , 155.133.252.18 , 2a01:bc80:8:103::9b85:fc12 
+cache3-sto2.steamcontent.com , 155.133.252.14 , 2a01:bc80:8:100::9b85:fc0e 
+cache4-sto2.steamcontent.com , 155.133.252.19 , 2a01:bc80:8:103::9b85:fc13 
+cache5-sto2.steamcontent.com , 155.133.252.10 , 2a01:bc80:8:100::9b85:fc0a 
+cache6-sto2.steamcontent.com , 155.133.252.13 , 2a01:bc80:8:100::9b85:fc0d 
+cache7-sto2.steamcontent.com , 155.133.252.20 , 2a01:bc80:8:103::9b85:fc14 
+cache8-sto2.steamcontent.com , 155.133.252.9 , 2a01:bc80:8:100::9b85:fc09 
+cache9-sto2.steamcontent.com , 155.133.252.21 , 2a01:bc80:8:103::9b85:fc15 
+cache10-sto2.steamcontent.com , 155.133.252.22 , 2a01:bc80:8:103::9b85:fc16 
+cache1-fra1.steamcontent.com , 155.133.250.2 , 2a01:bc80:5:100::9b85:fa02 
+cache2-fra1.steamcontent.com , 155.133.250.3 , 2a01:bc80:5:100::9b85:fa03 
+cache3-fra1.steamcontent.com , 155.133.250.4 , 2a01:bc80:5:100::9b85:fa04 
+cache4-fra1.steamcontent.com , 155.133.250.5 , 2a01:bc80:5:100::9b85:fa05 
+cache5-fra1.steamcontent.com , 155.133.250.6 , 2a01:bc80:5:100::9b85:fa06 
+cache6-fra1.steamcontent.com , 155.133.250.7 , 2a01:bc80:5:100::9b85:fa07 
+cache7-fra1.steamcontent.com , 155.133.250.17 , 2a01:bc80:5:100::9b85:fa11 
+cache9-fra1.steamcontent.com , 155.133.250.8 , 2a01:bc80:5:100::9b85:fa08 
+cache10-fra1.steamcontent.com , 155.133.250.9 , 2a01:bc80:5:100::9b85:fa09 
+cache11-fra1.steamcontent.com , 155.133.250.10 , 2a01:bc80:5:100::9b85:fa0a 
+cache13-fra1.steamcontent.com , 155.133.250.11 , 2a01:bc80:5:100::9b85:fa0b 
+cache14-fra1.steamcontent.com , 155.133.250.12 , 2a01:bc80:5:100::9b85:fa0c 
+cache15-fra1.steamcontent.com , 155.133.250.13 , 2a01:bc80:5:100::9b85:fa0d 
+cache16-fra1.steamcontent.com , 155.133.250.14 , 2a01:bc80:5:100::9b85:fa0e 
+cache21-fra1.steamcontent.com , 155.133.250.34 , 2a01:bc80:5:101::9b85:fa22 
+cache22-fra1.steamcontent.com , 155.133.250.35 , 2a01:bc80:5:101::9b85:fa23 
+cache23-fra1.steamcontent.com , 155.133.250.36 , 2a01:bc80:5:101::9b85:fa24 
+cache24-fra1.steamcontent.com , 155.133.250.37 , 2a01:bc80:5:101::9b85:fa25 
+cache25-fra1.steamcontent.com , 155.133.250.38 , 2a01:bc80:5:101::9b85:fa26 
+cache26-fra1.steamcontent.com , 155.133.250.15 , 2a01:bc80:5:100::9b85:fa0f 
+cache27-fra1.steamcontent.com , 155.133.250.39 , 2a01:bc80:5:101::9b85:fa27 
+cache28-fra1.steamcontent.com , 155.133.250.40 , 2a01:bc80:5:101::9b85:fa28 
+cache29-fra1.steamcontent.com , 155.133.250.41 , 2a01:bc80:5:101::9b85:fa29 
+cache30-fra1.steamcontent.com , 155.133.250.42 , 2a01:bc80:5:101::9b85:fa2a 
+cache31-fra1.steamcontent.com , 155.133.250.43 , 2a01:bc80:5:101::9b85:fa2b 
+cache32-fra1.steamcontent.com , 155.133.250.44 , 2a01:bc80:5:101::9b85:fa2c 
+cache33-fra1.steamcontent.com , 155.133.250.16 , 2a01:bc80:5:100::9b85:fa10 
+cache34-fra1.steamcontent.com , 155.133.250.45 , 2a01:bc80:5:101::9b85:fa2d 
+cache35-fra1.steamcontent.com , 155.133.250.46 , 2a01:bc80:5:101::9b85:fa2e 
+cache36-fra1.steamcontent.com , 155.133.250.47 , 2a01:bc80:5:101::9b85:fa2f 
+cache37-fra1.steamcontent.com , 155.133.250.48 , 2a01:bc80:5:101::9b85:fa30 
+cache38-fra1.steamcontent.com , 155.133.250.49 , 2a01:bc80:5:101::9b85:fa31 
+cache39-fra1.steamcontent.com , 155.133.250.50 , 2a01:bc80:5:101::9b85:fa32 
+cache40-fra1.steamcontent.com , 155.133.250.51 , 2a01:bc80:5:101::9b85:fa33 
+cache41-fra1.steamcontent.com , 155.133.250.52 , 2a01:bc80:5:101::9b85:fa34 
+cache42-fra1.steamcontent.com , 155.133.250.53 , 2a01:bc80:5:101::9b85:fa35 
+cache43-fra1.steamcontent.com , 155.133.250.54 , 2a01:bc80:5:101::9b85:fa36 
+cache44-fra1.steamcontent.com , 155.133.250.55 , 2a01:bc80:5:101::9b85:fa37 
+cache45-fra1.steamcontent.com , 155.133.250.56 , 2a01:bc80:5:101::9b85:fa38 
+cache46-fra1.steamcontent.com , 155.133.250.57 , 2a01:bc80:5:101::9b85:fa39 
+cache47-fra1.steamcontent.com , 155.133.250.58 , 2a01:bc80:5:101::9b85:fa3a 
+cache48-fra1.steamcontent.com , 155.133.250.59 , 2a01:bc80:5:101::9b85:fa3b 
+cache49-fra1.steamcontent.com , 155.133.250.60 , 2a01:bc80:5:101::9b85:fa3c 
+cache50-fra1.steamcontent.com , 155.133.250.61 , 2a01:bc80:5:101::9b85:fa3d 
+cache51-fra1.steamcontent.com , 155.133.250.98 , 2a01:bc80:5:106::9b85:fa62 
+cache52-fra1.steamcontent.com , 155.133.250.66 , 2a01:bc80:5:105::9b85:fa42 
+cache53-fra1.steamcontent.com , 155.133.250.99 , 2a01:bc80:5:106::9b85:fa63 
+cache54-fra1.steamcontent.com , 155.133.250.67 , 2a01:bc80:5:105::9b85:fa43 
+cache55-fra1.steamcontent.com , 155.133.250.100 , 2a01:bc80:5:106::9b85:fa64 
+cache56-fra1.steamcontent.com , 155.133.250.68 , 2a01:bc80:5:105::9b85:fa44 
+cache57-fra1.steamcontent.com , 155.133.250.101 , 2a01:bc80:5:106::9b85:fa65 
+cache58-fra1.steamcontent.com , 155.133.250.69 , 2a01:bc80:5:105::9b85:fa45 
+cache59-fra1.steamcontent.com , 155.133.250.102 , 2a01:bc80:5:106::9b85:fa66 
+cache61-fra1.steamcontent.com , 155.133.250.70 , 2a01:bc80:5:105::9b85:fa46 
+cache62-fra1.steamcontent.com , 155.133.250.103 , 2a01:bc80:5:106::9b85:fa67 
+cache63-fra1.steamcontent.com , 155.133.250.71 , 2a01:bc80:5:105::9b85:fa47 
+cache64-fra1.steamcontent.com , 155.133.250.104 , 2a01:bc80:5:106::9b85:fa68 
+cache65-fra1.steamcontent.com , 155.133.250.72 , 2a01:bc80:5:105::9b85:fa48 
+cache66-fra1.steamcontent.com , 155.133.250.105 , 2a01:bc80:5:106::9b85:fa69 
+cache67-fra1.steamcontent.com , 155.133.250.73 , 2a01:bc80:5:105::9b85:fa49 
+cache68-fra1.steamcontent.com , 155.133.250.106 , 2a01:bc80:5:106::9b85:fa6a 
+cache69-fra1.steamcontent.com , 155.133.250.74 , 2a01:bc80:5:105::9b85:fa4a 
+cache1-par1.steamcontent.com , 185.25.182.3 , 2a01:bc80:a:100::b919:b603 
+cache2-par1.steamcontent.com , 185.25.182.35 , 2a01:bc80:a:101::b919:b623 
+cache3-par1.steamcontent.com , 185.25.182.4 , 2a01:bc80:a:100::b919:b604 
+cache4-par1.steamcontent.com , 185.25.182.36 , 2a01:bc80:a:101::b919:b624 
+cache5-par1.steamcontent.com , 185.25.182.5 , 2a01:bc80:a:100::b919:b605 
+cache6-par1.steamcontent.com , 185.25.182.37 , 2a01:bc80:a:101::b919:b625 
+cache7-par1.steamcontent.com , 185.25.182.6 , 2a01:bc80:a:100::b919:b606 
+cache8-par1.steamcontent.com , 185.25.182.38 , 2a01:bc80:a:101::b919:b626 
+cache1-iad1.steamcontent.com , 162.254.192.3 , 2602:801:f002:101::a2fe:c003 
+cache2-iad1.steamcontent.com , 162.254.192.35 , 2602:801:f002:102::a2fe:c023 
+cache3-iad1.steamcontent.com , 162.254.192.4 , 2602:801:f002:101::a2fe:c004 
+cache4-iad1.steamcontent.com , 162.254.192.36 , 2602:801:f002:102::a2fe:c024 
+cache5-iad1.steamcontent.com , 162.254.192.5 , 2602:801:f002:101::a2fe:c005 
+cache6-iad1.steamcontent.com , 162.254.192.37 , 2602:801:f002:102::a2fe:c025 
+cache7-iad1.steamcontent.com , 162.254.192.6 , 2602:801:f002:101::a2fe:c006 
+cache8-iad1.steamcontent.com , 162.254.192.38 , 2602:801:f002:102::a2fe:c026 
+cache9-iad1.steamcontent.com , 162.254.192.7 , 2602:801:f002:101::a2fe:c007 
+cache10-iad1.steamcontent.com , 162.254.192.39 , 2602:801:f002:102::a2fe:c027 
+cache11-iad1.steamcontent.com , 162.254.192.8 , 2602:801:f002:101::a2fe:c008 
+cache12-iad1.steamcontent.com , 162.254.192.40 , 2602:801:f002:102::a2fe:c028 
+cache13-iad1.steamcontent.com , 162.254.192.9 , 2602:801:f002:101::a2fe:c009 
+cache14-iad1.steamcontent.com , 162.254.192.41 , 2602:801:f002:102::a2fe:c029 
+cache15-iad1.steamcontent.com , 162.254.192.10 , 2602:801:f002:101::a2fe:c00a 
+cache16-iad1.steamcontent.com , 162.254.192.42 , 2602:801:f002:102::a2fe:c02a 
+cache17-iad1.steamcontent.com , 162.254.192.11 , 2602:801:f002:101::a2fe:c00b 
+cache18-iad1.steamcontent.com , 162.254.192.43 , 2602:801:f002:102::a2fe:c02b 
+cache19-iad1.steamcontent.com , 162.254.192.12 , 2602:801:f002:101::a2fe:c00c 
+cache20-iad1.steamcontent.com , 162.254.192.44 , 2602:801:f002:102::a2fe:c02c 
+cache21-iad1.steamcontent.com , 162.254.192.13 , 2602:801:f002:101::a2fe:c00d 
+cache22-iad1.steamcontent.com , 162.254.192.45 , 2602:801:f002:102::a2fe:c02d 
+cache23-iad1.steamcontent.com , 162.254.192.14 , 2602:801:f002:101::a2fe:c00e 
+cache24-iad1.steamcontent.com , 162.254.192.46 , 2602:801:f002:102::a2fe:c02e 
+cache25-iad1.steamcontent.com , 162.254.192.15 , 2602:801:f002:101::a2fe:c00f 
+cache26-iad1.steamcontent.com , 162.254.192.47 , 2602:801:f002:102::a2fe:c02f 
+cache27-iad1.steamcontent.com , 162.254.192.18 , 2602:801:f002:101::a2fe:c012 
+cache28-iad1.steamcontent.com , 162.254.192.48 , 2602:801:f002:102::a2fe:c030 
 cache1-hkg1.steamcontent.com , 153.254.86.147 , 2404:3fc0:2:101::99fe:5693 
-cache2-hkg1.steamcontent.com , 153.254.86.148 , 
-cache3-hkg1.steamcontent.com , 153.254.86.131 , 
-cache4-hkg1.steamcontent.com , 153.254.86.132 , 
-cache5-hkg1.steamcontent.com , 153.254.86.133 , 
-cache6-hkg1.steamcontent.com , 153.254.86.149 , 
-cache1-lax1.steamcontent.com , 162.254.195.12 , 
-cache2-lax1.steamcontent.com , 162.254.195.13 , 
-cache3-lax1.steamcontent.com , 162.254.195.14 , 
+cache2-hkg1.steamcontent.com , 153.254.86.148 , 2404:3fc0:2:101::99fe:5694 
+cache3-hkg1.steamcontent.com , 153.254.86.131 , 2404:3fc0:2:100::99fe:5683 
+cache4-hkg1.steamcontent.com , 153.254.86.132 , 2404:3fc0:2:100::99fe:5684 
+cache5-hkg1.steamcontent.com , 153.254.86.133 , 2404:3fc0:2:100::99fe:5685 
+cache6-hkg1.steamcontent.com , 153.254.86.149 , 2404:3fc0:2:101::99fe:5695 
+cache1-lax1.steamcontent.com , 162.254.195.12 , 2602:801:f006:100::a2fe:c30c 
+cache2-lax1.steamcontent.com , 162.254.195.13 , 2602:801:f006:100::a2fe:c30d 
+cache3-lax1.steamcontent.com , 162.254.195.14 , 2602:801:f006:100::a2fe:c30e 
 cache4-lax1.steamcontent.com , 162.254.195.34 , 
-cache5-lax1.steamcontent.com , 162.254.195.35 , 
-cache6-lax1.steamcontent.com , 162.254.195.36 , 
-cache7-lax1.steamcontent.com , 162.254.195.37 , 
-cache8-lax1.steamcontent.com , 162.254.195.38 , 
-cache9-lax1.steamcontent.com , 162.254.195.20 , 
-cache10-lax1.steamcontent.com , 162.254.195.21 , 
-cache11-lax1.steamcontent.com , 162.254.195.39 , 
-cache12-lax1.steamcontent.com , 162.254.195.40 , 
-cache13-lax1.steamcontent.com , 162.254.195.24 , 
-cache14-lax1.steamcontent.com , 162.254.195.41 , 
-cache15-lax1.steamcontent.com , 162.254.195.26 , 
-cache16-lax1.steamcontent.com , 162.254.195.42 , 
-cache17-lax1.steamcontent.com , 162.254.195.28 , 
-cache18-lax1.steamcontent.com , 162.254.195.43 , 
-cache19-lax1.steamcontent.com , 162.254.195.30 , 
-cache20-lax1.steamcontent.com , 162.254.195.44 , 
-cache21-lax1.steamcontent.com , 162.254.195.15 , 
-cache1-mad1.steamcontent.com , 155.133.246.12 , 
-cache2-mad1.steamcontent.com , 155.133.246.18 , 
-cache3-mad1.steamcontent.com , 155.133.246.10 , 
-cache4-mad1.steamcontent.com , 155.133.246.19 , 
-cache5-mad1.steamcontent.com , 155.133.246.4 , 
-cache6-mad1.steamcontent.com , 155.133.246.20 , 
-cache1-ord1.steamcontent.com , 162.254.193.12 , 
-cache2-ord1.steamcontent.com , 162.254.193.13 , 
-cache3-ord1.steamcontent.com , 162.254.193.14 , 
-cache4-ord1.steamcontent.com , 162.254.193.36 , 
-cache5-ord1.steamcontent.com , 162.254.193.37 , 
-cache6-ord1.steamcontent.com , 162.254.193.38 , 
-cache8-ord1.steamcontent.com , 162.254.193.40 , 
-cache9-ord1.steamcontent.com , 162.254.193.20 , 
-cache10-ord1.steamcontent.com , 162.254.193.21 , 
-cache11-ord1.steamcontent.com , 162.254.193.22 , 
-cache12-ord1.steamcontent.com , 162.254.193.23 , 
-cache13-ord1.steamcontent.com , 162.254.193.24 , 
-cache14-ord1.steamcontent.com , 162.254.193.48 , 
-cache15-ord1.steamcontent.com , 162.254.193.49 , 
-cache16-ord1.steamcontent.com , 162.254.193.50 , 
-cache17-ord1.steamcontent.com , 162.254.193.51 , 
-cache18-ord1.steamcontent.com , 162.254.193.52 , 
-cache19-ord1.steamcontent.com , 162.254.193.25 , 
-cache20-ord1.steamcontent.com , 162.254.193.26 , 
-cache1-lax1.steamcontent.com , 162.254.195.12 , 
-cache2-lax1.steamcontent.com , 162.254.195.13 , 
-cache3-lax1.steamcontent.com , 162.254.195.14 , 
+cache5-lax1.steamcontent.com , 162.254.195.35 , 2602:801:f006:102::a2fe:c323 
+cache6-lax1.steamcontent.com , 162.254.195.36 , 2602:801:f006:102::a2fe:c324 
+cache7-lax1.steamcontent.com , 162.254.195.37 , 2602:801:f006:102::a2fe:c325 
+cache8-lax1.steamcontent.com , 162.254.195.38 , 2602:801:f006:102::a2fe:c326 
+cache9-lax1.steamcontent.com , 162.254.195.20 , 2602:801:f006:100::a2fe:c314 
+cache10-lax1.steamcontent.com , 162.254.195.21 , 2602:801:f006:100::a2fe:c315 
+cache11-lax1.steamcontent.com , 162.254.195.39 , 2602:801:f006:102::a2fe:c327 
+cache12-lax1.steamcontent.com , 162.254.195.40 , 2602:801:f006:102::a2fe:c328 
+cache13-lax1.steamcontent.com , 162.254.195.24 , 2602:801:f006:100::a2fe:c318 
+cache14-lax1.steamcontent.com , 162.254.195.41 , 2602:801:f006:102::a2fe:c329 
+cache15-lax1.steamcontent.com , 162.254.195.26 , 2602:801:f006:100::a2fe:c31a 
+cache16-lax1.steamcontent.com , 162.254.195.42 , 2602:801:f006:102::a2fe:c32a 
+cache17-lax1.steamcontent.com , 162.254.195.28 , 2602:801:f006:100::a2fe:c31c 
+cache18-lax1.steamcontent.com , 162.254.195.43 , 2602:801:f006:102::a2fe:c32b 
+cache19-lax1.steamcontent.com , 162.254.195.30 , 2602:801:f006:100::a2fe:c31e 
+cache20-lax1.steamcontent.com , 162.254.195.44 , 2602:801:f006:102::a2fe:c32c 
+cache21-lax1.steamcontent.com , 162.254.195.15 , 2602:801:f006:100::a2fe:c30f 
+cache1-mad1.steamcontent.com , 155.133.246.12 , 2a01:bc80:6:100::9b85:f60c 
+cache2-mad1.steamcontent.com , 155.133.246.18 , 2a01:bc80:6:103::9b85:f612 
+cache3-mad1.steamcontent.com , 155.133.246.10 , 2a01:bc80:6:100::9b85:f60a 
+cache4-mad1.steamcontent.com , 155.133.246.19 , 2a01:bc80:6:103::9b85:f613 
+cache5-mad1.steamcontent.com , 155.133.246.4 , 2a01:bc80:6:100::9b85:f604 
+cache6-mad1.steamcontent.com , 155.133.246.20 , 2a01:bc80:6:103::9b85:f614 
+cache1-ord1.steamcontent.com , 162.254.193.12 , 2602:801:f007:100::a2fe:c10c 
+cache2-ord1.steamcontent.com , 162.254.193.13 , 2602:801:f007:100::a2fe:c10d 
+cache3-ord1.steamcontent.com , 162.254.193.14 , 2602:801:f007:100::a2fe:c10e 
+cache4-ord1.steamcontent.com , 162.254.193.36 , 2602:801:f007:101::a2fe:c124 
+cache5-ord1.steamcontent.com , 162.254.193.37 , 2602:801:f007:101::a2fe:c125 
+cache6-ord1.steamcontent.com , 162.254.193.38 , 2602:801:f007:101::a2fe:c126 
+cache8-ord1.steamcontent.com , 162.254.193.40 , 2602:801:f007:101::a2fe:c128 
+cache9-ord1.steamcontent.com , 162.254.193.20 , 2602:801:f007:100::a2fe:c114 
+cache10-ord1.steamcontent.com , 162.254.193.21 , 2602:801:f007:100::a2fe:c115 
+cache11-ord1.steamcontent.com , 162.254.193.22 , 2602:801:f007:100::a2fe:c116 
+cache12-ord1.steamcontent.com , 162.254.193.23 , 2602:801:f007:100::a2fe:c117 
+cache13-ord1.steamcontent.com , 162.254.193.24 , 2602:801:f007:100::a2fe:c118 
+cache14-ord1.steamcontent.com , 162.254.193.48 , 2602:801:f007:101::a2fe:c130 
+cache15-ord1.steamcontent.com , 162.254.193.49 , 2602:801:f007:101::a2fe:c131 
+cache16-ord1.steamcontent.com , 162.254.193.50 , 2602:801:f007:101::a2fe:c132 
+cache17-ord1.steamcontent.com , 162.254.193.51 , 2602:801:f007:101::a2fe:c133 
+cache18-ord1.steamcontent.com , 162.254.193.52 , 2602:801:f007:101::a2fe:c134 
+cache19-ord1.steamcontent.com , 162.254.193.25 , 2602:801:f007:100::a2fe:c119 
+cache20-ord1.steamcontent.com , 162.254.193.26 , 2602:801:f007:100::a2fe:c11a 
+cache1-lax1.steamcontent.com , 162.254.195.12 , 2602:801:f006:100::a2fe:c30c 
+cache2-lax1.steamcontent.com , 162.254.195.13 , 2602:801:f006:100::a2fe:c30d 
+cache3-lax1.steamcontent.com , 162.254.195.14 , 2602:801:f006:100::a2fe:c30e 
 cache4-lax1.steamcontent.com , 162.254.195.34 , 
-cache5-lax1.steamcontent.com , 162.254.195.35 , 
-cache6-lax1.steamcontent.com , 162.254.195.36 , 
-cache7-lax1.steamcontent.com , 162.254.195.37 , 
-cache8-lax1.steamcontent.com , 162.254.195.38 , 
-cache9-lax1.steamcontent.com , 162.254.195.20 , 
-cache10-lax1.steamcontent.com , 162.254.195.21 , 
-cache11-lax1.steamcontent.com , 162.254.195.39 , 
-cache12-lax1.steamcontent.com , 162.254.195.40 , 
-cache13-lax1.steamcontent.com , 162.254.195.24 , 
-cache14-lax1.steamcontent.com , 162.254.195.41 , 
-cache15-lax1.steamcontent.com , 162.254.195.26 , 
-cache16-lax1.steamcontent.com , 162.254.195.42 , 
-cache17-lax1.steamcontent.com , 162.254.195.28 , 
-cache18-lax1.steamcontent.com , 162.254.195.43 , 
-cache19-lax1.steamcontent.com , 162.254.195.30 , 
-cache20-lax1.steamcontent.com , 162.254.195.44 , 
-cache21-lax1.steamcontent.com , 162.254.195.15 , 
-cache1-okc1.steamcontent.com , 155.133.254.3 , 2620:f9:3:100::9b85:fe03 
-cache2-okc1.steamcontent.com , 155.133.254.19 , 2620:f9:3:101::9b85:fe13 
-cache3-okc1.steamcontent.com , 155.133.254.4 , 
-cache4-okc1.steamcontent.com , 155.133.254.20 , 
-cache5-okc1.steamcontent.com , 155.133.254.5 , 
-cache6-okc1.steamcontent.com , 155.133.254.21 , 
-cache7-okc1.steamcontent.com , 155.133.254.6 , 
-cache8-okc1.steamcontent.com , 155.133.254.22 , 
+cache5-lax1.steamcontent.com , 162.254.195.35 , 2602:801:f006:102::a2fe:c323 
+cache6-lax1.steamcontent.com , 162.254.195.36 , 2602:801:f006:102::a2fe:c324 
+cache7-lax1.steamcontent.com , 162.254.195.37 , 2602:801:f006:102::a2fe:c325 
+cache8-lax1.steamcontent.com , 162.254.195.38 , 2602:801:f006:102::a2fe:c326 
+cache9-lax1.steamcontent.com , 162.254.195.20 , 2602:801:f006:100::a2fe:c314 
+cache10-lax1.steamcontent.com , 162.254.195.21 , 2602:801:f006:100::a2fe:c315 
+cache11-lax1.steamcontent.com , 162.254.195.39 , 2602:801:f006:102::a2fe:c327 
+cache12-lax1.steamcontent.com , 162.254.195.40 , 2602:801:f006:102::a2fe:c328 
+cache13-lax1.steamcontent.com , 162.254.195.24 , 2602:801:f006:100::a2fe:c318 
+cache14-lax1.steamcontent.com , 162.254.195.41 , 2602:801:f006:102::a2fe:c329 
+cache15-lax1.steamcontent.com , 162.254.195.26 , 2602:801:f006:100::a2fe:c31a 
+cache16-lax1.steamcontent.com , 162.254.195.42 , 2602:801:f006:102::a2fe:c32a 
+cache17-lax1.steamcontent.com , 162.254.195.28 , 2602:801:f006:100::a2fe:c31c 
+cache18-lax1.steamcontent.com , 162.254.195.43 , 2602:801:f006:102::a2fe:c32b 
+cache19-lax1.steamcontent.com , 162.254.195.30 , 2602:801:f006:100::a2fe:c31e 
+cache20-lax1.steamcontent.com , 162.254.195.44 , 2602:801:f006:102::a2fe:c32c 
+cache21-lax1.steamcontent.com , 162.254.195.15 , 2602:801:f006:100::a2fe:c30f 
+cache1-okc1.steamcontent.com , 155.133.254.3 , 2602:801:f003:100::9b85:fe03 
+cache2-okc1.steamcontent.com , 155.133.254.19 , 2602:801:f003:101::9b85:fe13 
+cache3-okc1.steamcontent.com , 155.133.254.4 , 2602:801:f003:100::9b85:fe04 
+cache4-okc1.steamcontent.com , 155.133.254.20 , 2602:801:f003:101::9b85:fe14 
+cache5-okc1.steamcontent.com , 155.133.254.5 , 2602:801:f003:100::9b85:fe05 
+cache6-okc1.steamcontent.com , 155.133.254.21 , 2602:801:f003:101::9b85:fe15 
+cache7-okc1.steamcontent.com , 155.133.254.6 , 2602:801:f003:100::9b85:fe06 
+cache8-okc1.steamcontent.com , 155.133.254.22 , 2602:801:f003:101::9b85:fe16 
 cache1-atl1.steamcontent.com , 162.254.199.131 , 
-cache2-atl1.steamcontent.com , 162.254.199.132 , 
-cache3-atl1.steamcontent.com , 162.254.199.133 , 
-cache4-atl1.steamcontent.com , 162.254.199.134 , 
-cache6-atl1.steamcontent.com , 162.254.199.195 , 
-cache7-atl1.steamcontent.com , 162.254.199.196 , 
-cache8-atl1.steamcontent.com , 162.254.199.197 , 
-cache9-atl1.steamcontent.com , 162.254.199.198 , 
-cache10-atl1.steamcontent.com , 162.254.199.140 , 
-cache11-atl1.steamcontent.com , 162.254.199.199 , 
-cache1-sea1.steamcontent.com , 205.196.6.165 , 
-cache2-sea1.steamcontent.com , 205.196.6.170 , 
-cache3-sea1.steamcontent.com , 205.196.6.171 , 
-cache4-sea1.steamcontent.com , 205.196.6.142 , 
-cache5-sea1.steamcontent.com , 205.196.6.173 , 
-cache6-sea1.steamcontent.com , 205.196.6.143 , 
-cache8-sea1.steamcontent.com , 205.196.6.144 , 
-cache10-sea1.steamcontent.com , 205.196.6.146 , 
+cache2-atl1.steamcontent.com , 162.254.199.132 , 2602:801:f008:100::a2fe:c784 
+cache3-atl1.steamcontent.com , 162.254.199.133 , 2602:801:f008:100::a2fe:c785 
+cache4-atl1.steamcontent.com , 162.254.199.134 , 2602:801:f008:100::a2fe:c786 
+cache6-atl1.steamcontent.com , 162.254.199.195 , 2602:801:f008:102::a2fe:c7c3 
+cache7-atl1.steamcontent.com , 162.254.199.196 , 2602:801:f008:102::a2fe:c7c4 
+cache8-atl1.steamcontent.com , 162.254.199.197 , 2602:801:f008:102::a2fe:c7c5 
+cache9-atl1.steamcontent.com , 162.254.199.198 , 2602:801:f008:102::a2fe:c7c6 
+cache10-atl1.steamcontent.com , 162.254.199.140 , 2602:801:f008:100::a2fe:c78c 
+cache11-atl1.steamcontent.com , 162.254.199.199 , 2602:801:f008:102::a2fe:c7c7 
+cache1-sea1.steamcontent.com , 205.196.6.165 , 2602:801:f00b::cdc4:6a5 
+cache2-sea1.steamcontent.com , 205.196.6.170 , 2602:801:f00b::cdc4:6aa 
+cache3-sea1.steamcontent.com , 205.196.6.171 , 2602:801:f00b::cdc4:6ab 
+cache4-sea1.steamcontent.com , 205.196.6.142 , 2602:801:f00b:1::cdc4:68e 
+cache5-sea1.steamcontent.com , 205.196.6.173 , 2602:801:f00b::cdc4:6ad 
+cache6-sea1.steamcontent.com , 205.196.6.143 , 2602:801:f00b:1::cdc4:68f 
+cache8-sea1.steamcontent.com , 205.196.6.144 , 2602:801:f00b:1::cdc4:690 
+cache10-sea1.steamcontent.com , 205.196.6.146 , 2602:801:f00b:1::cdc4:692 
 cache11-sea1.steamcontent.com , 205.196.6.114 , 
-cache1-vie1.steamcontent.com , 146.66.155.10 , 
-cache2-vie1.steamcontent.com , 146.66.155.21 , 
-cache3-vie1.steamcontent.com , 146.66.155.4 , 
-cache4-vie1.steamcontent.com , 146.66.155.19 , 
-cache5-vie1.steamcontent.com , 146.66.155.6 , 
-cache6-vie1.steamcontent.com , 146.66.155.20 , 
-cache7-vie1.steamcontent.com , 146.66.155.66 , 
-cache8-vie1.steamcontent.com , 146.66.155.67 , 
-cache9-vie1.steamcontent.com , 146.66.155.68 , 
-cache10-vie1.steamcontent.com , 146.66.155.69 , 
-cache11-vie1.steamcontent.com , 146.66.155.70 , 
-cache12-vie1.steamcontent.com , 146.66.155.71 , 
-cache1-tyo1.steamcontent.com , 155.133.245.4 , 
-cache2-tyo1.steamcontent.com , 155.133.245.5 , 
+cache12-sea1.steamcontent.com , 205.196.6.147 , 2602:801:f00b:1::cdc4:693 
+cache1-vie1.steamcontent.com , 146.66.155.10 , 2a01:bc80:2:100::9242:9b0a 
+cache2-vie1.steamcontent.com , 146.66.155.21 , 2a01:bc80:2:101::9242:9b15 
+cache3-vie1.steamcontent.com , 146.66.155.4 , 2a01:bc80:2:100::9242:9b04 
+cache4-vie1.steamcontent.com , 146.66.155.19 , 2a01:bc80:2:101::9242:9b13 
+cache5-vie1.steamcontent.com , 146.66.155.6 , 2a01:bc80:2:100::9242:9b06 
+cache6-vie1.steamcontent.com , 146.66.155.20 , 2a01:bc80:2:101::9242:9b14 
+cache7-vie1.steamcontent.com , 146.66.155.66 , 2a01:bc80:2:110::9242:9b42 
+cache8-vie1.steamcontent.com , 146.66.155.67 , 2a01:bc80:2:110::9242:9b43 
+cache9-vie1.steamcontent.com , 146.66.155.68 , 2a01:bc80:2:110::9242:9b44 
+cache10-vie1.steamcontent.com , 146.66.155.69 , 2a01:bc80:2:110::9242:9b45 
+cache11-vie1.steamcontent.com , 146.66.155.70 , 2a01:bc80:2:110::9242:9b46 
+cache12-vie1.steamcontent.com , 146.66.155.71 , 2a01:bc80:2:110::9242:9b47 
+cache1-tyo1.steamcontent.com , 155.133.245.4 , 2404:3fc0:4:100::9b85:f504 
+cache2-tyo1.steamcontent.com , 155.133.245.5 , 2404:3fc0:4:100::9b85:f505 
 cache1-syd1.steamcontent.com , 103.10.125.18 , 
 cache2-syd1.steamcontent.com , 103.10.125.19 , 
 cache3-syd1.steamcontent.com , 103.10.125.3 , 
 cache1-gru1.steamcontent.com , 205.185.194.194 , 2602:801:f005:105::cdb9:c2c2 
-cache2-gru1.steamcontent.com , 205.185.194.4 , 
-cache3-gru1.steamcontent.com , 205.185.194.18 , 
-cache4-gru1.steamcontent.com , 205.185.194.10 , 
+cache2-gru1.steamcontent.com , 205.185.194.4 , 2602:801:f005:100::cdb9:c204 
+cache3-gru1.steamcontent.com , 205.185.194.18 , 2602:801:f005:103::cdb9:c212 
+cache4-gru1.steamcontent.com , 205.185.194.10 , 2602:801:f005:100::cdb9:c20a 
 cache6-gru1.steamcontent.com , 205.185.194.195 , 2602:801:f005:105::cdb9:c2c3 
 cache7-gru1.steamcontent.com , 205.185.194.210 , 2602:801:f005:104::cdb9:c2d2 
 cache8-gru1.steamcontent.com , 205.185.194.211 , 2602:801:f005:104::cdb9:c2d3 
