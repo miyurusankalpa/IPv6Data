@@ -15,5 +15,11 @@ jobs:
 
     - name: Print Public IP
       run: |
-        echo ${{ steps.ip.outputs.ipv4 }}
-        echo ${{ steps.ip.outputs.ipv6 }}
+        if [[ $string =~ .*:.* ]]
+        then
+          echo ${{ steps.ip.outputs.ipv6 }}
+        else
+          echo "No IPv6"
+          exit 1
+        fi
+        
