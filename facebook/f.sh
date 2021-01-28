@@ -1,9 +1,10 @@
 #!/bin/bash
+
 eval "(echo "Code,IPv4,IPv6") >> output.csv"
 for l1 in {a..z} ; do
 	for l2 in {a..z} ; do
 		for l3 in {a..z} ; do
-			for n in {1..9} ; do
+			for n in {1..20} ; do
 				code="$l1$l2$l3$n"
 
 				echo $code
