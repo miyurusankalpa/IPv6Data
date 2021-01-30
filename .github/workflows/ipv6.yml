@@ -1,0 +1,25 @@
+name: Github Actions IPv6 Test
+
+on:
+  schedule:
+    - cron:  '6 6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Public IP
+      id: ip
+      uses: haythem/public-ip@v1.2
+
+    - name: Print Public IP
+      run: |
+        if [[ $string =~ .*:.* ]]
+        then
+          echo ${{ steps.ip.outputs.ipv6 }}
+        else
+          echo "No IPv6"
+          exit 1
+        fi
+        
