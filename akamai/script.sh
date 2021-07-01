@@ -1,4 +1,5 @@
 #!/bin/bash
+#!/bin/bash
 for i in $(seq "$((2#0000000000000000))" "$((2#1111111111111111))")
  do
 	ip="2a02:26f0:6b:2a0::$(echo "obase=16;$i" | bc | tr '[:upper:]' '[:lower:]')"
